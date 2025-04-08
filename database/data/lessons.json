@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "1",
+    "category_id": "2",
+    "title": "I wake up at 6 AM every day.",
+    "description": "Tôi thức dậy lúc 6 giờ sáng mỗi ngày."
+  },
+  {
+    "id": "2",
+    "category_id": "2",
+    "title": "I brush my teeth after waking up.",
+    "description": "Tôi đánh răng sau khi thức dậy."
+  },
+  {
+    "id": "3",
+    "category_id": "2",
+    "title": "I take a shower in the morning.",
+    "description": "Tôi tắm vào buổi sáng."
+  },
+  {
+    "id": "4",
+    "category_id": "2",
+    "title": "I usually eat breakfast at 7 o'clock.",
+    "description": "Tôi thường ăn sáng lúc 7 giờ."
+  },
+  {
+    "id": "5",
+    "category_id": "2",
+    "title": "I go to work by bus.",
+    "description": "Tôi đi làm bằng xe buýt."
+  },
+  {
+    "id": "6",
+    "category_id": "2",
+    "title": "I go to bed at 10 every day.",
+    "description": "Tôi đi ngủ lúc 10 giờ mỗi ngày."
+  },
+  {
+    "id": "7",
+    "category_id": "2",
+    "title": "I make coffee every day.",
+    "description": "Tôi pha cà phê mỗi ngày."
+  },
+  {
+    "id": "8",
+    "category_id": "2",
+    "title": "I wash the dishes every day.",
+    "description": "Tôi rửa bát mỗi ngày."
+  },
+  {
+    "id": "9",
+    "category_id": "2",
+    "title": "I walk the dog every day.",
+    "description": "Tôi dắt chó đi dạo mỗi ngày."
+  },
+  {
+    "id": "10",
+    "category_id": "2",
+    "title": "I leave home at 8 every day.",
+    "description": "Tôi rời nhà lúc 8 giờ mỗi ngày."
+  },
+  {
+    "id": "11",
+    "category_id": "2",
+    "title": "I finish work at 5 every day.",
+    "description": "Tôi kết thúc công việc lúc 5 giờ mỗi ngày."
+  },
+  {
+    "id": "12",
+    "category_id": "2",
+    "title": "I wash the dishes every day.",
+    "description": "Tôi rửa bát mỗi ngày."
+  },
+  {
+    "id": "13",
+    "category_id": "2",
+    "title": "I read a book every day.",
+    "description": "Tôi đọc sách mỗi ngày."
+  },
+  {
+    "id": "14",
+    "category_id": "2",
+    "title": "I have lunch at noon every day.",
+    "description": "Tôi ăn trưa lúc 12 giờ mỗi ngày."
+  },
+  {
+    "id": "15",
+    "category_id": "2",
+    "title": "I leave home at 8 every day.",
+    "description": "Tôi rời nhà lúc 8 giờ mỗi ngày."
+  },
+  {
+    "id": "16",
+    "category_id": "2",
+    "title": "I take a nap every day.",
+    "description": "Tôi chợp mắt một chút mỗi ngày."
+  },
+  {
+    "id": "17",
+    "category_id": "2",
+    "title": "I walk the dog every day.",
+    "description": "Tôi dắt chó đi dạo mỗi ngày."
+  },
+  {
+    "id": "18",
+    "category_id": "2",
+    "title": "I cook dinner every day.",
+    "description": "Tôi nấu bữa tối mỗi ngày."
+  },
+  {
+    "id": "19",
+    "category_id": "2",
+    "title": "I leave home at 8 every day.",
+    "description": "Tôi rời nhà lúc 8 giờ mỗi ngày."
+  },
+  {
+    "id": "20",
+    "category_id": "2",
+    "title": "I take a nap every day.",
+    "description": "Tôi chợp mắt một chút mỗi ngày."
+  },
+  {
+    "id": "21",
+    "category_id": "2",
+    "title": "I finish work at 5 every day.",
+    "description": "Tôi kết thúc công việc lúc 5 giờ mỗi ngày."
+  },
+  {
+    "id": "22",
+    "category_id": "2",
+    "title": "I wash the dishes every day.",
+    "description": "Tôi rửa bát mỗi ngày."
+  },
+  {
+    "id": "23",
+    "category_id": "2",
+    "title": "I cook dinner every day.",
+    "description": "Tôi nấu bữa tối mỗi ngày."
+  },
+  {
+    "id": "24",
+    "category_id": "2",
+    "title": "I check my emails every day.",
+    "description": "Tôi kiểm tra email mỗi ngày."
+  },
+  {
+    "id": "25",
+    "category_id": "2",
+    "title": "I go to the gym every day.",
+    "description": "Tôi đi tập gym mỗi ngày."
+  },
+  {
+    "id": "26",
+    "category_id": "2",
+    "title": "I leave home at 8 every day.",
+    "description": "Tôi rời nhà lúc 8 giờ mỗi ngày."
+  },
+  {
+    "id": "27",
+    "category_id": "2",
+    "title": "I do the laundry every day.",
+    "description": "Tôi giặt đồ mỗi ngày."
+  },
+  {
+    "id": "28",
+    "category_id": "2",
+    "title": "I read a book every day.",
+    "description": "Tôi đọc sách mỗi ngày."
+  },
+  {
+    "id": "29",
+    "category_id": "2",
+    "title": "I finish work at 5 every day.",
+    "description": "Tôi kết thúc công việc lúc 5 giờ mỗi ngày."
+  },
+  {
+    "id": "30",
+    "category_id": "2",
+    "title": "I leave home at 8 every day.",
+    "description": "Tôi rời nhà lúc 8 giờ mỗi ngày."
+  },
+  {
+    "id": "31",
+    "category_id": "2",
+    "title": "I finish work at 5 every day.",
+    "description": "Tôi kết thúc công việc lúc 5 giờ mỗi ngày."
+  },
+  {
+    "id": "32",
+    "category_id": "2",
+    "title": "I read a book every day.",
+    "description": "Tôi đọc sách mỗi ngày."
+  },
+  {
+    "id": "33",
+    "category_id": "2",
+    "title": "I cook dinner every day.",
+    "description": "Tôi nấu bữa tối mỗi ngày."
+  },
+  {
+    "id": "34",
+    "category_id": "2",
+    "title": "I go to the gym every day.",
+    "description": "Tôi đi tập gym mỗi ngày."
+  },
+  {
+    "id": "35",
+    "category_id": "2",
+    "title": "I go to the gym every day.",
+    "description": "Tôi đi tập gym mỗi ngày."
+  },
+  {
+    "id": "36",
+    "category_id": "2",
+    "title": "I watch TV every day.",
+    "description": "Tôi xem TV mỗi ngày."
+  },
+  {
+    "id": "37",
+    "category_id": "2",
+    "title": "I have lunch at noon every day.",
+    "description": "Tôi ăn trưa lúc 12 giờ mỗi ngày."
+  },
+  {
+    "id": "38",
+    "category_id": "2",
+    "title": "I cook dinner every day.",
+    "description": "Tôi nấu bữa tối mỗi ngày."
+  },
+  {
+    "id": "39",
+    "category_id": "2",
+    "title": "I watch TV every day.",
+    "description": "Tôi xem TV mỗi ngày."
+  },
+  {
+    "id": "40",
+    "category_id": "2",
+    "title": "I read a book every day.",
+    "description": "Tôi đọc sách mỗi ngày."
+  },
+  {
+    "id": "41",
+    "category_id": "2",
+    "title": "I wash the dishes every day.",
+    "description": "Tôi rửa bát mỗi ngày."
+  },
+  {
+    "id": "42",
+    "category_id": "2",
+    "title": "I read a book every day.",
+    "description": "Tôi đọc sách mỗi ngày."
+  },
+  {
+    "id": "43",
+    "category_id": "2",
+    "title": "I wash the dishes every day.",
+    "description": "Tôi rửa bát mỗi ngày."
+  },
+  {
+    "id": "44",
+    "category_id": "2",
+    "title": "I walk the dog every day.",
+    "description": "Tôi dắt chó đi dạo mỗi ngày."
+  },
+  {
+    "id": "45",
+    "category_id": "2",
+    "title": "I do the laundry every day.",
+    "description": "Tôi giặt đồ mỗi ngày."
+  },
+  {
+    "id": "46",
+    "category_id": "2",
+    "title": "I read a book every day.",
+    "description": "Tôi đọc sách mỗi ngày."
+  },
+  {
+    "id": "47",
+    "category_id": "2",
+    "title": "I take a nap every day.",
+    "description": "Tôi chợp mắt một chút mỗi ngày."
+  },
+  {
+    "id": "48",
+    "category_id": "2",
+    "title": "I take a nap every day.",
+    "description": "Tôi chợp mắt một chút mỗi ngày."
+  },
+  {
+    "id": "49",
+    "category_id": "2",
+    "title": "I read a book every day.",
+    "description": "Tôi đọc sách mỗi ngày."
+  },
+  {
+    "id": "50",
+    "category_id": "2",
+    "title": "I take a nap every day.",
+    "description": "Tôi chợp mắt một chút mỗi ngày."
+  },
+  {
+    "id": "51",
+    "category_id": "3",
+    "title": "I paint in my free time as a hobby.",
+    "description": "Tôi vẽ tranh lúc rảnh như một sở thích."
+  },
+  {
+    "id": "52",
+    "category_id": "3",
+    "title": "I garden on weekends as a hobby.",
+    "description": "Tôi làm vườn vào cuối tuần như một sở thích."
+  },
+  {
+    "id": "53",
+    "category_id": "3",
+    "title": "I go hiking as a hobby.",
+    "description": "Tôi đi leo núi như một sở thích."
+  },
+  {
+    "id": "54",
+    "category_id": "3",
+    "title": "I play video games as a hobby.",
+    "description": "Tôi chơi trò chơi điện tử như một sở thích."
+  },
+  {
+    "id": "55",
+    "category_id": "3",
+    "title": "I travel to new places as a hobby.",
+    "description": "Tôi đi du lịch đến những nơi mới như một sở thích."
+  },
+  {
+    "id": "56",
+    "category_id": "3",
+    "title": "I play video games as a hobby.",
+    "description": "Tôi chơi trò chơi điện tử như một sở thích."
+  },
+  {
+    "id": "57",
+    "category_id": "3",
+    "title": "I garden on weekends as a hobby.",
+    "description": "Tôi làm vườn vào cuối tuần như một sở thích."
+  },
+  {
+    "id": "58",
+    "category_id": "3",
+    "title": "I go swimming as a hobby.",
+    "description": "Tôi đi bơi như một sở thích."
+  },
+  {
+    "id": "59",
+    "category_id": "3",
+    "title": "I play chess as a hobby.",
+    "description": "Tôi chơi cờ vua như một sở thích."
+  },
+  {
+    "id": "60",
+    "category_id": "3",
+    "title": "I paint in my free time as a hobby.",
+    "description": "Tôi vẽ tranh lúc rảnh như một sở thích."
+  },
+  {
+    "id": "61",
+    "category_id": "3",
+    "title": "I go hiking as a hobby.",
+    "description": "Tôi đi leo núi như một sở thích."
+  },
+  {
+    "id": "62",
+    "category_id": "3",
+    "title": "I travel to new places as a hobby.",
+    "description": "Tôi đi du lịch đến những nơi mới như một sở thích."
+  },
+  {
+    "id": "63",
+    "category_id": "3",
+    "title": "I play video games as a hobby.",
+    "description": "Tôi chơi trò chơi điện tử như một sở thích."
+  },
+  {
+    "id": "64",
+    "category_id": "3",
+    "title": "I garden on weekends as a hobby.",
+    "description": "Tôi làm vườn vào cuối tuần như một sở thích."
+  },
+  {
+    "id": "65",
+    "category_id": "3",
+    "title": "I go swimming as a hobby.",
+    "description": "Tôi đi bơi như một sở thích."
+  },
+  {
+    "id": "66",
+    "category_id": "3",
+    "title": "I play the guitar as a hobby.",
+    "description": "Tôi chơi guitar như một sở thích."
+  },
+  {
+    "id": "67",
+    "category_id": "3",
+    "title": "I play video games as a hobby.",
+    "description": "Tôi chơi trò chơi điện tử như một sở thích."
+  },
+  {
+    "id": "68",
+    "category_id": "3",
+    "title": "I go hiking as a hobby.",
+    "description": "Tôi đi leo núi như một sở thích."
+  },
+  {
+    "id": "69",
+    "category_id": "3",
+    "title": "I watch movies as a hobby.",
+    "description": "Tôi xem phim như một sở thích."
+  },
+  {
+    "id": "70",
+    "category_id": "3",
+    "title": "I play the guitar as a hobby.",
+    "description": "Tôi chơi guitar như một sở thích."
+  },
+  {
+    "id": "71",
+    "category_id": "3",
+    "title": "I listen to music as a hobby.",
+    "description": "Tôi nghe nhạc như một sở thích."
+  },
+  {
+    "id": "72",
+    "category_id": "3",
+    "title": "I paint in my free time as a hobby.",
+    "description": "Tôi vẽ tranh lúc rảnh như một sở thích."
+  },
+  {
+    "id": "73",
+    "category_id": "3",
+    "title": "I travel to new places as a hobby.",
+    "description": "Tôi đi du lịch đến những nơi mới như một sở thích."
+  },
+  {
+    "id": "74",
+    "category_id": "3",
+    "title": "I do yoga as a hobby.",
+    "description": "Tôi tập yoga như một sở thích."
+  },
+  {
+    "id": "75",
+    "category_id": "3",
+    "title": "I watch movies as a hobby.",
+    "description": "Tôi xem phim như một sở thích."
+  },
+  {
+    "id": "76",
+    "category_id": "3",
+    "title": "I paint in my free time as a hobby.",
+    "description": "Tôi vẽ tranh lúc rảnh như một sở thích."
+  },
+  {
+    "id": "77",
+    "category_id": "3",
+    "title": "I listen to music as a hobby.",
+    "description": "Tôi nghe nhạc như một sở thích."
+  },
+  {
+    "id": "78",
+    "category_id": "3",
+    "title": "I watch movies as a hobby.",
+    "description": "Tôi xem phim như một sở thích."
+  },
+  {
+    "id": "79",
+    "category_id": "3",
+    "title": "I paint in my free time as a hobby.",
+    "description": "Tôi vẽ tranh lúc rảnh như một sở thích."
+  },
+  {
+    "id": "80",
+    "category_id": "3",
+    "title": "I write stories as a hobby.",
+    "description": "Tôi viết truyện như một sở thích."
+  },
+  {
+    "id": "81",
+    "category_id": "3",
+    "title": "I bake cakes as a hobby.",
+    "description": "Tôi nướng bánh như một sở thích."
+  },
+  {
+    "id": "82",
+    "category_id": "3",
+    "title": "I watch movies as a hobby.",
+    "description": "Tôi xem phim như một sở thích."
+  },
+  {
+    "id": "83",
+    "category_id": "3",
+    "title": "I bake cakes as a hobby.",
+    "description": "Tôi nướng bánh như một sở thích."
+  },
+  {
+    "id": "84",
+    "category_id": "3",
+    "title": "I go swimming as a hobby.",
+    "description": "Tôi đi bơi như một sở thích."
+  },
+  {
+    "id": "85",
+    "category_id": "3",
+    "title": "I go hiking as a hobby.",
+    "description": "Tôi đi leo núi như một sở thích."
+  },
+  {
+    "id": "86",
+    "category_id": "3",
+    "title": "I do yoga as a hobby.",
+    "description": "Tôi tập yoga như một sở thích."
+  },
+  {
+    "id": "87",
+    "category_id": "3",
+    "title": "I garden on weekends as a hobby.",
+    "description": "Tôi làm vườn vào cuối tuần như một sở thích."
+  },
+  {
+    "id": "88",
+    "category_id": "3",
+    "title": "I do yoga as a hobby.",
+    "description": "Tôi tập yoga như một sở thích."
+  },
+  {
+    "id": "89",
+    "category_id": "3",
+    "title": "I listen to music as a hobby.",
+    "description": "Tôi nghe nhạc như một sở thích."
+  },
+  {
+    "id": "90",
+    "category_id": "3",
+    "title": "I paint in my free time as a hobby.",
+    "description": "Tôi vẽ tranh lúc rảnh như một sở thích."
+  },
+  {
+    "id": "91",
+    "category_id": "3",
+    "title": "I play the guitar as a hobby.",
+    "description": "Tôi chơi guitar như một sở thích."
+  },
+  {
+    "id": "92",
+    "category_id": "3",
+    "title": "I write stories as a hobby.",
+    "description": "Tôi viết truyện như một sở thích."
+  },
+  {
+    "id": "93",
+    "category_id": "3",
+    "title": "I garden on weekends as a hobby.",
+    "description": "Tôi làm vườn vào cuối tuần như một sở thích."
+  },
+  {
+    "id": "94",
+    "category_id": "3",
+    "title": "I paint in my free time as a hobby.",
+    "description": "Tôi vẽ tranh lúc rảnh như một sở thích."
+  },
+  {
+    "id": "95",
+    "category_id": "3",
+    "title": "I watch movies as a hobby.",
+    "description": "Tôi xem phim như một sở thích."
+  },
+  {
+    "id": "96",
+    "category_id": "3",
+    "title": "I play the guitar as a hobby.",
+    "description": "Tôi chơi guitar như một sở thích."
+  },
+  {
+    "id": "97",
+    "category_id": "3",
+    "title": "I garden on weekends as a hobby.",
+    "description": "Tôi làm vườn vào cuối tuần như một sở thích."
+  },
+  {
+    "id": "98",
+    "category_id": "3",
+    "title": "I play the guitar as a hobby.",
+    "description": "Tôi chơi guitar như một sở thích."
+  },
+  {
+    "id": "99",
+    "category_id": "3",
+    "title": "I play video games as a hobby.",
+    "description": "Tôi chơi trò chơi điện tử như một sở thích."
+  },
+  {
+    "id": "100",
+    "category_id": "3",
+    "title": "I bake cakes as a hobby.",
+    "description": "Tôi nướng bánh như một sở thích."
+  },
+  {
+    "id": "101",
+    "category_id": "4",
+    "title": "My children love cartoons.",
+    "description": "Con tôi thích hoạt hình."
+  },
+  {
+    "id": "102",
+    "category_id": "4",
+    "title": "I love spending time with my family.",
+    "description": "Tôi thích dành thời gian với gia đình."
+  },
+  {
+    "id": "103",
+    "category_id": "4",
+    "title": "My father loves cooking.",
+    "description": "Bố tôi thích nấu ăn."
+  },
+  {
+    "id": "104",
+    "category_id": "4",
+    "title": "I love spending time with my family.",
+    "description": "Tôi thích dành thời gian với gia đình."
+  },
+  {
+    "id": "105",
+    "category_id": "4",
+    "title": "My children love cartoons.",
+    "description": "Con tôi thích hoạt hình."
+  },
+  {
+    "id": "106",
+    "category_id": "4",
+    "title": "My grandmother tells great stories.",
+    "description": "Bà tôi kể chuyện rất hay."
+  },
+  {
+    "id": "107",
+    "category_id": "4",
+    "title": "My parents support me.",
+    "description": "Bố mẹ tôi ủng hộ tôi."
+  },
+  {
+    "id": "108",
+    "category_id": "4",
+    "title": "My siblings are very close.",
+    "description": "Anh chị em tôi rất thân thiết."
+  },
+  {
+    "id": "109",
+    "category_id": "4",
+    "title": "My aunt is very friendly.",
+    "description": "Cô tôi rất thân thiện."
+  },
+  {
+    "id": "110",
+    "category_id": "4",
+    "title": "My mom cooks delicious food.",
+    "description": "Mẹ tôi nấu ăn ngon."
+  },
+  {
+    "id": "111",
+    "category_id": "4",
+    "title": "My father loves cooking.",
+    "description": "Bố tôi thích nấu ăn."
+  },
+  {
+    "id": "112",
+    "category_id": "4",
+    "title": "My children love cartoons.",
+    "description": "Con tôi thích hoạt hình."
+  },
+  {
+    "id": "113",
+    "category_id": "4",
+    "title": "My parents support me.",
+    "description": "Bố mẹ tôi ủng hộ tôi."
+  },
+  {
+    "id": "114",
+    "category_id": "4",
+    "title": "My cousin studies abroad.",
+    "description": "Anh họ tôi du học."
+  },
+  {
+    "id": "115",
+    "category_id": "4",
+    "title": "My aunt is very friendly.",
+    "description": "Cô tôi rất thân thiện."
+  },
+  {
+    "id": "116",
+    "category_id": "4",
+    "title": "My children love cartoons.",
+    "description": "Con tôi thích hoạt hình."
+  },
+  {
+    "id": "117",
+    "category_id": "4",
+    "title": "My cousin studies abroad.",
+    "description": "Anh họ tôi du học."
+  },
+  {
+    "id": "118",
+    "category_id": "4",
+    "title": "I love spending time with my family.",
+    "description": "Tôi thích dành thời gian với gia đình."
+  },
+  {
+    "id": "119",
+    "category_id": "4",
+    "title": "My parents support me.",
+    "description": "Bố mẹ tôi ủng hộ tôi."
+  },
+  {
+    "id": "120",
+    "category_id": "4",
+    "title": "My sister likes dancing.",
+    "description": "Em gái tôi thích nhảy múa."
+  },
+  {
+    "id": "121",
+    "category_id": "4",
+    "title": "My brother plays football.",
+    "description": "Anh trai tôi chơi bóng đá."
+  },
+  {
+    "id": "122",
+    "category_id": "4",
+    "title": "My parents support me.",
+    "description": "Bố mẹ tôi ủng hộ tôi."
+  },
+  {
+    "id": "123",
+    "category_id": "4",
+    "title": "My dad takes me to school.",
+    "description": "Bố đưa tôi đến trường."
+  },
+  {
+    "id": "124",
+    "category_id": "4",
+    "title": "My brother plays football.",
+    "description": "Anh trai tôi chơi bóng đá."
+  },
+  {
+    "id": "125",
+    "category_id": "4",
+    "title": "My brother plays football.",
+    "description": "Anh trai tôi chơi bóng đá."
+  },
+  {
+    "id": "126",
+    "category_id": "4",
+    "title": "My dad takes me to school.",
+    "description": "Bố đưa tôi đến trường."
+  },
+  {
+    "id": "127",
+    "category_id": "4",
+    "title": "My grandfather goes fishing.",
+    "description": "Ông tôi đi câu cá."
+  },
+  {
+    "id": "128",
+    "category_id": "4",
+    "title": "My uncle lives in the countryside.",
+    "description": "Chú tôi sống ở nông thôn."
+  },
+  {
+    "id": "129",
+    "category_id": "4",
+    "title": "My parents support me.",
+    "description": "Bố mẹ tôi ủng hộ tôi."
+  },
+  {
+    "id": "130",
+    "category_id": "4",
+    "title": "My dad takes me to school.",
+    "description": "Bố đưa tôi đến trường."
+  },
+  {
+    "id": "131",
+    "category_id": "4",
+    "title": "My siblings are very close.",
+    "description": "Anh chị em tôi rất thân thiết."
+  },
+  {
+    "id": "132",
+    "category_id": "4",
+    "title": "My mom cooks delicious food.",
+    "description": "Mẹ tôi nấu ăn ngon."
+  },
+  {
+    "id": "133",
+    "category_id": "4",
+    "title": "My children love cartoons.",
+    "description": "Con tôi thích hoạt hình."
+  },
+  {
+    "id": "134",
+    "category_id": "4",
+    "title": "My uncle lives in the countryside.",
+    "description": "Chú tôi sống ở nông thôn."
+  },
+  {
+    "id": "135",
+    "category_id": "4",
+    "title": "My father loves cooking.",
+    "description": "Bố tôi thích nấu ăn."
+  },
+  {
+    "id": "136",
+    "category_id": "4",
+    "title": "My mom cooks delicious food.",
+    "description": "Mẹ tôi nấu ăn ngon."
+  },
+  {
+    "id": "137",
+    "category_id": "4",
+    "title": "My siblings are very close.",
+    "description": "Anh chị em tôi rất thân thiết."
+  },
+  {
+    "id": "138",
+    "category_id": "4",
+    "title": "My parents support me.",
+    "description": "Bố mẹ tôi ủng hộ tôi."
+  },
+  {
+    "id": "139",
+    "category_id": "4",
+    "title": "My father loves cooking.",
+    "description": "Bố tôi thích nấu ăn."
+  },
+  {
+    "id": "140",
+    "category_id": "4",
+    "title": "My uncle lives in the countryside.",
+    "description": "Chú tôi sống ở nông thôn."
+  },
+  {
+    "id": "141",
+    "category_id": "4",
+    "title": "My siblings are very close.",
+    "description": "Anh chị em tôi rất thân thiết."
+  },
+  {
+    "id": "142",
+    "category_id": "4",
+    "title": "My cousin studies abroad.",
+    "description": "Anh họ tôi du học."
+  },
+  {
+    "id": "143",
+    "category_id": "4",
+    "title": "My brother plays football.",
+    "description": "Anh trai tôi chơi bóng đá."
+  },
+  {
+    "id": "144",
+    "category_id": "4",
+    "title": "My grandfather goes fishing.",
+    "description": "Ông tôi đi câu cá."
+  },
+  {
+    "id": "145",
+    "category_id": "4",
+    "title": "My children love cartoons.",
+    "description": "Con tôi thích hoạt hình."
+  },
+  {
+    "id": "146",
+    "category_id": "4",
+    "title": "My mother is a teacher.",
+    "description": "Mẹ tôi là giáo viên."
+  },
+  {
+    "id": "147",
+    "category_id": "4",
+    "title": "My mother is a teacher.",
+    "description": "Mẹ tôi là giáo viên."
+  },
+  {
+    "id": "148",
+    "category_id": "4",
+    "title": "My father loves cooking.",
+    "description": "Bố tôi thích nấu ăn."
+  },
+  {
+    "id": "149",
+    "category_id": "4",
+    "title": "My parents support me.",
+    "description": "Bố mẹ tôi ủng hộ tôi."
+  },
+  {
+    "id": "150",
+    "category_id": "4",
+    "title": "My brother plays football.",
+    "description": "Anh trai tôi chơi bóng đá."
+  },
+  {
+    "id": "151",
+    "category_id": "5",
+    "title": "I like spicy food.",
+    "description": "Tôi thích đồ ăn cay."
+  },
+  {
+    "id": "152",
+    "category_id": "5",
+    "title": "I enjoy eating salad.",
+    "description": "Tôi thích ăn salad."
+  },
+  {
+    "id": "153",
+    "category_id": "5",
+    "title": "I eat fruits every day.",
+    "description": "Tôi ăn trái cây mỗi ngày."
+  },
+  {
+    "id": "154",
+    "category_id": "5",
+    "title": "I eat vegetables with dinner.",
+    "description": "Tôi ăn rau với bữa tối."
+  },
+  {
+    "id": "155",
+    "category_id": "5",
+    "title": "I drink coffee every morning.",
+    "description": "Tôi uống cà phê mỗi sáng."
+  },
+  {
+    "id": "156",
+    "category_id": "5",
+    "title": "I eat fruits every day.",
+    "description": "Tôi ăn trái cây mỗi ngày."
+  },
+  {
+    "id": "157",
+    "category_id": "5",
+    "title": "I enjoy eating salad.",
+    "description": "Tôi thích ăn salad."
+  },
+  {
+    "id": "158",
+    "category_id": "5",
+    "title": "I like eating pizza.",
+    "description": "Tôi thích ăn pizza."
+  },
+  {
+    "id": "159",
+    "category_id": "5",
+    "title": "I have rice for lunch.",
+    "description": "Tôi ăn cơm vào bữa trưa."
+  },
+  {
+    "id": "160",
+    "category_id": "5",
+    "title": "I enjoy cooking pasta.",
+    "description": "Tôi thích nấu mì ống."
+  },
+  {
+    "id": "161",
+    "category_id": "5",
+    "title": "I enjoy cooking pasta.",
+    "description": "Tôi thích nấu mì ống."
+  },
+  {
+    "id": "162",
+    "category_id": "5",
+    "title": "I like eating pizza.",
+    "description": "Tôi thích ăn pizza."
+  },
+  {
+    "id": "163",
+    "category_id": "5",
+    "title": "I usually eat noodles.",
+    "description": "Tôi thường ăn mì."
+  },
+  {
+    "id": "164",
+    "category_id": "5",
+    "title": "I eat fruits every day.",
+    "description": "Tôi ăn trái cây mỗi ngày."
+  },
+  {
+    "id": "165",
+    "category_id": "5",
+    "title": "I drink milk before bed.",
+    "description": "Tôi uống sữa trước khi ngủ."
+  },
+  {
+    "id": "166",
+    "category_id": "5",
+    "title": "I eat vegetables with dinner.",
+    "description": "Tôi ăn rau với bữa tối."
+  },
+  {
+    "id": "167",
+    "category_id": "5",
+    "title": "I like eating pizza.",
+    "description": "Tôi thích ăn pizza."
+  },
+  {
+    "id": "168",
+    "category_id": "5",
+    "title": "I have rice for lunch.",
+    "description": "Tôi ăn cơm vào bữa trưa."
+  },
+  {
+    "id": "169",
+    "category_id": "5",
+    "title": "I have rice for lunch.",
+    "description": "Tôi ăn cơm vào bữa trưa."
+  },
+  {
+    "id": "170",
+    "category_id": "5",
+    "title": "I like spicy food.",
+    "description": "Tôi thích đồ ăn cay."
+  },
+  {
+    "id": "171",
+    "category_id": "5",
+    "title": "I enjoy cooking pasta.",
+    "description": "Tôi thích nấu mì ống."
+  },
+  {
+    "id": "172",
+    "category_id": "5",
+    "title": "I like spicy food.",
+    "description": "Tôi thích đồ ăn cay."
+  },
+  {
+    "id": "173",
+    "category_id": "5",
+    "title": "I like eating pizza.",
+    "description": "Tôi thích ăn pizza."
+  },
+  {
+    "id": "174",
+    "category_id": "5",
+    "title": "I like eating pizza.",
+    "description": "Tôi thích ăn pizza."
+  },
+  {
+    "id": "175",
+    "category_id": "5",
+    "title": "I drink milk before bed.",
+    "description": "Tôi uống sữa trước khi ngủ."
+  },
+  {
+    "id": "176",
+    "category_id": "5",
+    "title": "I often drink lemonade.",
+    "description": "Tôi thường uống nước chanh."
+  },
+  {
+    "id": "177",
+    "category_id": "5",
+    "title": "I love drinking orange juice.",
+    "description": "Tôi thích uống nước cam."
+  },
+  {
+    "id": "178",
+    "category_id": "5",
+    "title": "I prefer tea to coffee.",
+    "description": "Tôi thích trà hơn cà phê."
+  },
+  {
+    "id": "179",
+    "category_id": "5",
+    "title": "I like eating pizza.",
+    "description": "Tôi thích ăn pizza."
+  },
+  {
+    "id": "180",
+    "category_id": "5",
+    "title": "I eat fruits every day.",
+    "description": "Tôi ăn trái cây mỗi ngày."
+  },
+  {
+    "id": "181",
+    "category_id": "5",
+    "title": "I like eating pizza.",
+    "description": "Tôi thích ăn pizza."
+  },
+  {
+    "id": "182",
+    "category_id": "5",
+    "title": "I drink coffee every morning.",
+    "description": "Tôi uống cà phê mỗi sáng."
+  },
+  {
+    "id": "183",
+    "category_id": "5",
+    "title": "I usually eat noodles.",
+    "description": "Tôi thường ăn mì."
+  },
+  {
+    "id": "184",
+    "category_id": "5",
+    "title": "I enjoy eating salad.",
+    "description": "Tôi thích ăn salad."
+  },
+  {
+    "id": "185",
+    "category_id": "5",
+    "title": "I usually eat noodles.",
+    "description": "Tôi thường ăn mì."
+  },
+  {
+    "id": "186",
+    "category_id": "5",
+    "title": "I eat fruits every day.",
+    "description": "Tôi ăn trái cây mỗi ngày."
+  },
+  {
+    "id": "187",
+    "category_id": "5",
+    "title": "I eat fruits every day.",
+    "description": "Tôi ăn trái cây mỗi ngày."
+  },
+  {
+    "id": "188",
+    "category_id": "5",
+    "title": "I often drink lemonade.",
+    "description": "Tôi thường uống nước chanh."
+  },
+  {
+    "id": "189",
+    "category_id": "5",
+    "title": "I usually eat noodles.",
+    "description": "Tôi thường ăn mì."
+  },
+  {
+    "id": "190",
+    "category_id": "5",
+    "title": "I like eating pizza.",
+    "description": "Tôi thích ăn pizza."
+  },
+  {
+    "id": "191",
+    "category_id": "5",
+    "title": "I like spicy food.",
+    "description": "Tôi thích đồ ăn cay."
+  },
+  {
+    "id": "192",
+    "category_id": "5",
+    "title": "I drink coffee every morning.",
+    "description": "Tôi uống cà phê mỗi sáng."
+  },
+  {
+    "id": "193",
+    "category_id": "5",
+    "title": "I eat vegetables with dinner.",
+    "description": "Tôi ăn rau với bữa tối."
+  },
+  {
+    "id": "194",
+    "category_id": "5",
+    "title": "I love drinking orange juice.",
+    "description": "Tôi thích uống nước cam."
+  },
+  {
+    "id": "195",
+    "category_id": "5",
+    "title": "I often drink lemonade.",
+    "description": "Tôi thường uống nước chanh."
+  },
+  {
+    "id": "196",
+    "category_id": "5",
+    "title": "I like ice cream for dessert.",
+    "description": "Tôi thích kem làm món tráng miệng."
+  },
+  {
+    "id": "197",
+    "category_id": "5",
+    "title": "I prefer tea to coffee.",
+    "description": "Tôi thích trà hơn cà phê."
+  },
+  {
+    "id": "198",
+    "category_id": "5",
+    "title": "I eat fruits every day.",
+    "description": "Tôi ăn trái cây mỗi ngày."
+  },
+  {
+    "id": "199",
+    "category_id": "5",
+    "title": "I have rice for lunch.",
+    "description": "Tôi ăn cơm vào bữa trưa."
+  },
+  {
+    "id": "200",
+    "category_id": "5",
+    "title": "I enjoy cooking pasta.",
+    "description": "Tôi thích nấu mì ống."
+  },
+  {
+    "id": "201",
+    "category_id": "6",
+    "title": "The sky is cloudy.",
+    "description": "Trời nhiều mây."
+  },
+  {
+    "id": "202",
+    "category_id": "6",
+    "title": "Spring is my favorite season.",
+    "description": "Mùa xuân là mùa tôi thích nhất."
+  },
+  {
+    "id": "203",
+    "category_id": "6",
+    "title": "The sky is cloudy.",
+    "description": "Trời nhiều mây."
+  },
+  {
+    "id": "204",
+    "category_id": "6",
+    "title": "I enjoy cool weather.",
+    "description": "Tôi thích thời tiết mát mẻ."
+  },
+  {
+    "id": "205",
+    "category_id": "6",
+    "title": "Winter is cold and snowy.",
+    "description": "Mùa đông lạnh và có tuyết."
+  },
+  {
+    "id": "206",
+    "category_id": "6",
+    "title": "The temperature is rising.",
+    "description": "Nhiệt độ đang tăng."
+  },
+  {
+    "id": "207",
+    "category_id": "6",
+    "title": "Winter is cold and snowy.",
+    "description": "Mùa đông lạnh và có tuyết."
+  },
+  {
+    "id": "208",
+    "category_id": "6",
+    "title": "I wear a coat in winter.",
+    "description": "Tôi mặc áo khoác vào mùa đông."
+  },
+  {
+    "id": "209",
+    "category_id": "6",
+    "title": "It's windy today.",
+    "description": "Hôm nay trời nhiều gió."
+  },
+  {
+    "id": "210",
+    "category_id": "6",
+    "title": "Spring is my favorite season.",
+    "description": "Mùa xuân là mùa tôi thích nhất."
+  },
+  {
+    "id": "211",
+    "category_id": "6",
+    "title": "The weather is very cold.",
+    "description": "Thời tiết rất lạnh."
+  },
+  {
+    "id": "212",
+    "category_id": "6",
+    "title": "The sky is cloudy.",
+    "description": "Trời nhiều mây."
+  },
+  {
+    "id": "213",
+    "category_id": "6",
+    "title": "The weather is very cold.",
+    "description": "Thời tiết rất lạnh."
+  },
+  {
+    "id": "214",
+    "category_id": "6",
+    "title": "It's sunny today.",
+    "description": "Hôm nay trời nắng."
+  },
+  {
+    "id": "215",
+    "category_id": "6",
+    "title": "It's windy today.",
+    "description": "Hôm nay trời nhiều gió."
+  },
+  {
+    "id": "216",
+    "category_id": "6",
+    "title": "Spring is my favorite season.",
+    "description": "Mùa xuân là mùa tôi thích nhất."
+  },
+  {
+    "id": "217",
+    "category_id": "6",
+    "title": "There is a thunderstorm.",
+    "description": "Có giông bão."
+  },
+  {
+    "id": "218",
+    "category_id": "6",
+    "title": "It often rains in autumn.",
+    "description": "Trời thường mưa vào mùa thu."
+  },
+  {
+    "id": "219",
+    "category_id": "6",
+    "title": "Summer is hot and sunny.",
+    "description": "Mùa hè thì nóng và nắng."
+  },
+  {
+    "id": "220",
+    "category_id": "6",
+    "title": "I enjoy cool weather.",
+    "description": "Tôi thích thời tiết mát mẻ."
+  },
+  {
+    "id": "221",
+    "category_id": "6",
+    "title": "It's windy today.",
+    "description": "Hôm nay trời nhiều gió."
+  },
+  {
+    "id": "222",
+    "category_id": "6",
+    "title": "The sky is cloudy.",
+    "description": "Trời nhiều mây."
+  },
+  {
+    "id": "223",
+    "category_id": "6",
+    "title": "It's windy today.",
+    "description": "Hôm nay trời nhiều gió."
+  },
+  {
+    "id": "224",
+    "category_id": "6",
+    "title": "The sky is cloudy.",
+    "description": "Trời nhiều mây."
+  },
+  {
+    "id": "225",
+    "category_id": "6",
+    "title": "Winter is cold and snowy.",
+    "description": "Mùa đông lạnh và có tuyết."
+  },
+  {
+    "id": "226",
+    "category_id": "6",
+    "title": "Spring is my favorite season.",
+    "description": "Mùa xuân là mùa tôi thích nhất."
+  },
+  {
+    "id": "227",
+    "category_id": "6",
+    "title": "It’s freezing outside.",
+    "description": "Ngoài trời rất lạnh."
+  },
+  {
+    "id": "228",
+    "category_id": "6",
+    "title": "I enjoy cool weather.",
+    "description": "Tôi thích thời tiết mát mẻ."
+  },
+  {
+    "id": "229",
+    "category_id": "6",
+    "title": "Summer is hot and sunny.",
+    "description": "Mùa hè thì nóng và nắng."
+  },
+  {
+    "id": "230",
+    "category_id": "6",
+    "title": "Winter is cold and snowy.",
+    "description": "Mùa đông lạnh và có tuyết."
+  },
+  {
+    "id": "231",
+    "category_id": "6",
+    "title": "It often rains in autumn.",
+    "description": "Trời thường mưa vào mùa thu."
+  },
+  {
+    "id": "232",
+    "category_id": "6",
+    "title": "Summer is hot and sunny.",
+    "description": "Mùa hè thì nóng và nắng."
+  },
+  {
+    "id": "233",
+    "category_id": "6",
+    "title": "It’s freezing outside.",
+    "description": "Ngoài trời rất lạnh."
+  },
+  {
+    "id": "234",
+    "category_id": "6",
+    "title": "The temperature is rising.",
+    "description": "Nhiệt độ đang tăng."
+  },
+  {
+    "id": "235",
+    "category_id": "6",
+    "title": "It's raining outside.",
+    "description": "Trời đang mưa bên ngoài."
+  },
+  {
+    "id": "236",
+    "category_id": "6",
+    "title": "The temperature is rising.",
+    "description": "Nhiệt độ đang tăng."
+  },
+  {
+    "id": "237",
+    "category_id": "6",
+    "title": "It's windy today.",
+    "description": "Hôm nay trời nhiều gió."
+  },
+  {
+    "id": "238",
+    "category_id": "6",
+    "title": "Spring is my favorite season.",
+    "description": "Mùa xuân là mùa tôi thích nhất."
+  },
+  {
+    "id": "239",
+    "category_id": "6",
+    "title": "There is a thunderstorm.",
+    "description": "Có giông bão."
+  },
+  {
+    "id": "240",
+    "category_id": "6",
+    "title": "It's raining outside.",
+    "description": "Trời đang mưa bên ngoài."
+  },
+  {
+    "id": "241",
+    "category_id": "6",
+    "title": "I wear a coat in winter.",
+    "description": "Tôi mặc áo khoác vào mùa đông."
+  },
+  {
+    "id": "242",
+    "category_id": "6",
+    "title": "There is a thunderstorm.",
+    "description": "Có giông bão."
+  },
+  {
+    "id": "243",
+    "category_id": "6",
+    "title": "Summer is hot and sunny.",
+    "description": "Mùa hè thì nóng và nắng."
+  },
+  {
+    "id": "244",
+    "category_id": "6",
+    "title": "It often rains in autumn.",
+    "description": "Trời thường mưa vào mùa thu."
+  },
+  {
+    "id": "245",
+    "category_id": "6",
+    "title": "It often rains in autumn.",
+    "description": "Trời thường mưa vào mùa thu."
+  },
+  {
+    "id": "246",
+    "category_id": "6",
+    "title": "Winter is cold and snowy.",
+    "description": "Mùa đông lạnh và có tuyết."
+  },
+  {
+    "id": "247",
+    "category_id": "6",
+    "title": "I wear a coat in winter.",
+    "description": "Tôi mặc áo khoác vào mùa đông."
+  },
+  {
+    "id": "248",
+    "category_id": "6",
+    "title": "It often rains in autumn.",
+    "description": "Trời thường mưa vào mùa thu."
+  },
+  {
+    "id": "249",
+    "category_id": "6",
+    "title": "The temperature is rising.",
+    "description": "Nhiệt độ đang tăng."
+  },
+  {
+    "id": "250",
+    "category_id": "6",
+    "title": "There is a thunderstorm.",
+    "description": "Có giông bão."
+  },
+  {
+    "id": "251",
+    "category_id": "7",
+    "title": "She wears high heels to work.",
+    "description": "Cô ấy mang giày cao gót đi làm."
+  },
+  {
+    "id": "252",
+    "category_id": "7",
+    "title": "She wears a jacket when it’s cold.",
+    "description": "Cô ấy mặc áo khoác khi trời lạnh."
+  },
+  {
+    "id": "253",
+    "category_id": "7",
+    "title": "They are wearing uniforms.",
+    "description": "Họ đang mặc đồng phục."
+  },
+  {
+    "id": "254",
+    "category_id": "7",
+    "title": "He always wears a hat.",
+    "description": "Anh ấy luôn đội mũ."
+  },
+  {
+    "id": "255",
+    "category_id": "7",
+    "title": "I like trying new styles.",
+    "description": "Tôi thích thử phong cách mới."
+  },
+  {
+    "id": "256",
+    "category_id": "7",
+    "title": "He changes clothes after work.",
+    "description": "Anh ấy thay đồ sau khi làm việc."
+  },
+  {
+    "id": "257",
+    "category_id": "7",
+    "title": "My shoes are black.",
+    "description": "Giày của tôi màu đen."
+  },
+  {
+    "id": "258",
+    "category_id": "7",
+    "title": "They are wearing uniforms.",
+    "description": "Họ đang mặc đồng phục."
+  },
+  {
+    "id": "259",
+    "category_id": "7",
+    "title": "She is wearing a red scarf.",
+    "description": "Cô ấy đang đeo khăn choàng đỏ."
+  },
+  {
+    "id": "260",
+    "category_id": "7",
+    "title": "I like trying new styles.",
+    "description": "Tôi thích thử phong cách mới."
+  },
+  {
+    "id": "261",
+    "category_id": "7",
+    "title": "She is wearing a red scarf.",
+    "description": "Cô ấy đang đeo khăn choàng đỏ."
+  },
+  {
+    "id": "262",
+    "category_id": "7",
+    "title": "I wear casual clothes at home.",
+    "description": "Tôi mặc đồ giản dị ở nhà."
+  },
+  {
+    "id": "263",
+    "category_id": "7",
+    "title": "I am wearing a blue shirt.",
+    "description": "Tôi đang mặc một chiếc áo sơ mi xanh."
+  },
+  {
+    "id": "264",
+    "category_id": "7",
+    "title": "I love fashion.",
+    "description": "Tôi yêu thời trang."
+  },
+  {
+    "id": "265",
+    "category_id": "7",
+    "title": "She likes wearing dresses.",
+    "description": "Cô ấy thích mặc váy."
+  },
+  {
+    "id": "266",
+    "category_id": "7",
+    "title": "I wear casual clothes at home.",
+    "description": "Tôi mặc đồ giản dị ở nhà."
+  },
+  {
+    "id": "267",
+    "category_id": "7",
+    "title": "She is wearing a red scarf.",
+    "description": "Cô ấy đang đeo khăn choàng đỏ."
+  },
+  {
+    "id": "268",
+    "category_id": "7",
+    "title": "I love fashion.",
+    "description": "Tôi yêu thời trang."
+  },
+  {
+    "id": "269",
+    "category_id": "7",
+    "title": "She likes wearing dresses.",
+    "description": "Cô ấy thích mặc váy."
+  },
+  {
+    "id": "270",
+    "category_id": "7",
+    "title": "They are wearing uniforms.",
+    "description": "Họ đang mặc đồng phục."
+  },
+  {
+    "id": "271",
+    "category_id": "7",
+    "title": "He always wears a hat.",
+    "description": "Anh ấy luôn đội mũ."
+  },
+  {
+    "id": "272",
+    "category_id": "7",
+    "title": "I bought new jeans.",
+    "description": "Tôi đã mua quần jean mới."
+  },
+  {
+    "id": "273",
+    "category_id": "7",
+    "title": "She wears high heels to work.",
+    "description": "Cô ấy mang giày cao gót đi làm."
+  },
+  {
+    "id": "274",
+    "category_id": "7",
+    "title": "She likes wearing dresses.",
+    "description": "Cô ấy thích mặc váy."
+  },
+  {
+    "id": "275",
+    "category_id": "7",
+    "title": "He looks good in a suit.",
+    "description": "Anh ấy trông đẹp trong bộ vest."
+  },
+  {
+    "id": "276",
+    "category_id": "7",
+    "title": "She is wearing a red scarf.",
+    "description": "Cô ấy đang đeo khăn choàng đỏ."
+  },
+  {
+    "id": "277",
+    "category_id": "7",
+    "title": "She wears high heels to work.",
+    "description": "Cô ấy mang giày cao gót đi làm."
+  },
+  {
+    "id": "278",
+    "category_id": "7",
+    "title": "My shoes are black.",
+    "description": "Giày của tôi màu đen."
+  },
+  {
+    "id": "279",
+    "category_id": "7",
+    "title": "They are wearing uniforms.",
+    "description": "Họ đang mặc đồng phục."
+  },
+  {
+    "id": "280",
+    "category_id": "7",
+    "title": "She is wearing a red scarf.",
+    "description": "Cô ấy đang đeo khăn choàng đỏ."
+  },
+  {
+    "id": "281",
+    "category_id": "7",
+    "title": "I like trying new styles.",
+    "description": "Tôi thích thử phong cách mới."
+  },
+  {
+    "id": "282",
+    "category_id": "7",
+    "title": "I wear casual clothes at home.",
+    "description": "Tôi mặc đồ giản dị ở nhà."
+  },
+  {
+    "id": "283",
+    "category_id": "7",
+    "title": "I wear casual clothes at home.",
+    "description": "Tôi mặc đồ giản dị ở nhà."
+  },
+  {
+    "id": "284",
+    "category_id": "7",
+    "title": "He looks good in a suit.",
+    "description": "Anh ấy trông đẹp trong bộ vest."
+  },
+  {
+    "id": "285",
+    "category_id": "7",
+    "title": "He changes clothes after work.",
+    "description": "Anh ấy thay đồ sau khi làm việc."
+  },
+  {
+    "id": "286",
+    "category_id": "7",
+    "title": "I bought new jeans.",
+    "description": "Tôi đã mua quần jean mới."
+  },
+  {
+    "id": "287",
+    "category_id": "7",
+    "title": "I like trying new styles.",
+    "description": "Tôi thích thử phong cách mới."
+  },
+  {
+    "id": "288",
+    "category_id": "7",
+    "title": "I bought new jeans.",
+    "description": "Tôi đã mua quần jean mới."
+  },
+  {
+    "id": "289",
+    "category_id": "7",
+    "title": "She likes wearing dresses.",
+    "description": "Cô ấy thích mặc váy."
+  },
+  {
+    "id": "290",
+    "category_id": "7",
+    "title": "I like trying new styles.",
+    "description": "Tôi thích thử phong cách mới."
+  },
+  {
+    "id": "291",
+    "category_id": "7",
+    "title": "He always wears a hat.",
+    "description": "Anh ấy luôn đội mũ."
+  },
+  {
+    "id": "292",
+    "category_id": "7",
+    "title": "He looks good in a suit.",
+    "description": "Anh ấy trông đẹp trong bộ vest."
+  },
+  {
+    "id": "293",
+    "category_id": "7",
+    "title": "I am wearing a blue shirt.",
+    "description": "Tôi đang mặc một chiếc áo sơ mi xanh."
+  },
+  {
+    "id": "294",
+    "category_id": "7",
+    "title": "He prefers T-shirts and jeans.",
+    "description": "Anh ấy thích áo thun và quần jean."
+  },
+  {
+    "id": "295",
+    "category_id": "7",
+    "title": "She wears a jacket when it’s cold.",
+    "description": "Cô ấy mặc áo khoác khi trời lạnh."
+  },
+  {
+    "id": "296",
+    "category_id": "7",
+    "title": "He prefers T-shirts and jeans.",
+    "description": "Anh ấy thích áo thun và quần jean."
+  },
+  {
+    "id": "297",
+    "category_id": "7",
+    "title": "My shoes are black.",
+    "description": "Giày của tôi màu đen."
+  },
+  {
+    "id": "298",
+    "category_id": "7",
+    "title": "He changes clothes after work.",
+    "description": "Anh ấy thay đồ sau khi làm việc."
+  },
+  {
+    "id": "299",
+    "category_id": "7",
+    "title": "She likes wearing dresses.",
+    "description": "Cô ấy thích mặc váy."
+  },
+  {
+    "id": "300",
+    "category_id": "7",
+    "title": "He changes clothes after work.",
+    "description": "Anh ấy thay đồ sau khi làm việc."
+  },
+  {
+    "id": "301",
+    "category_id": "8",
+    "title": "We study together after class.",
+    "description": "Chúng tôi học cùng nhau sau giờ học."
+  },
+  {
+    "id": "302",
+    "category_id": "8",
+    "title": "The students are taking notes.",
+    "description": "Các học sinh đang ghi chép."
+  },
+  {
+    "id": "303",
+    "category_id": "8",
+    "title": "The students are taking notes.",
+    "description": "Các học sinh đang ghi chép."
+  },
+  {
+    "id": "304",
+    "category_id": "8",
+    "title": "We have a test tomorrow.",
+    "description": "Chúng tôi có bài kiểm tra vào ngày mai."
+  },
+  {
+    "id": "305",
+    "category_id": "8",
+    "title": "I enjoy reading books.",
+    "description": "Tôi thích đọc sách."
+  },
+  {
+    "id": "306",
+    "category_id": "8",
+    "title": "I go to school every day.",
+    "description": "Tôi đi học mỗi ngày."
+  },
+  {
+    "id": "307",
+    "category_id": "8",
+    "title": "He is a good student.",
+    "description": "Anh ấy là một học sinh giỏi."
+  },
+  {
+    "id": "308",
+    "category_id": "8",
+    "title": "There are many books in the classroom.",
+    "description": "Có nhiều sách trong lớp học."
+  },
+  {
+    "id": "309",
+    "category_id": "8",
+    "title": "I enjoy reading books.",
+    "description": "Tôi thích đọc sách."
+  },
+  {
+    "id": "310",
+    "category_id": "8",
+    "title": "We have a test tomorrow.",
+    "description": "Chúng tôi có bài kiểm tra vào ngày mai."
+  },
+  {
+    "id": "311",
+    "category_id": "8",
+    "title": "She studies English at school.",
+    "description": "Cô ấy học tiếng Anh ở trường."
+  },
+  {
+    "id": "312",
+    "category_id": "8",
+    "title": "She goes to the library every week.",
+    "description": "Cô ấy đến thư viện mỗi tuần."
+  },
+  {
+    "id": "313",
+    "category_id": "8",
+    "title": "She studies English at school.",
+    "description": "Cô ấy học tiếng Anh ở trường."
+  },
+  {
+    "id": "314",
+    "category_id": "8",
+    "title": "I learn science and history.",
+    "description": "Tôi học khoa học và lịch sử."
+  },
+  {
+    "id": "315",
+    "category_id": "8",
+    "title": "I enjoy reading books.",
+    "description": "Tôi thích đọc sách."
+  },
+  {
+    "id": "316",
+    "category_id": "8",
+    "title": "She goes to the library every week.",
+    "description": "Cô ấy đến thư viện mỗi tuần."
+  },
+  {
+    "id": "317",
+    "category_id": "8",
+    "title": "The teacher is very kind.",
+    "description": "Giáo viên rất tốt bụng."
+  },
+  {
+    "id": "318",
+    "category_id": "8",
+    "title": "There are many books in the classroom.",
+    "description": "Có nhiều sách trong lớp học."
+  },
+  {
+    "id": "319",
+    "category_id": "8",
+    "title": "I have a lot of homework.",
+    "description": "Tôi có nhiều bài tập về nhà."
+  },
+  {
+    "id": "320",
+    "category_id": "8",
+    "title": "He is a good student.",
+    "description": "Anh ấy là một học sinh giỏi."
+  },
+  {
+    "id": "321",
+    "category_id": "8",
+    "title": "The students are taking notes.",
+    "description": "Các học sinh đang ghi chép."
+  },
+  {
+    "id": "322",
+    "category_id": "8",
+    "title": "The students are taking notes.",
+    "description": "Các học sinh đang ghi chép."
+  },
+  {
+    "id": "323",
+    "category_id": "8",
+    "title": "I learn science and history.",
+    "description": "Tôi học khoa học và lịch sử."
+  },
+  {
+    "id": "324",
+    "category_id": "8",
+    "title": "My school is near my house.",
+    "description": "Trường tôi gần nhà tôi."
+  },
+  {
+    "id": "325",
+    "category_id": "8",
+    "title": "The teacher is very kind.",
+    "description": "Giáo viên rất tốt bụng."
+  },
+  {
+    "id": "326",
+    "category_id": "8",
+    "title": "The students are taking notes.",
+    "description": "Các học sinh đang ghi chép."
+  },
+  {
+    "id": "327",
+    "category_id": "8",
+    "title": "We have a test tomorrow.",
+    "description": "Chúng tôi có bài kiểm tra vào ngày mai."
+  },
+  {
+    "id": "328",
+    "category_id": "8",
+    "title": "We have a test tomorrow.",
+    "description": "Chúng tôi có bài kiểm tra vào ngày mai."
+  },
+  {
+    "id": "329",
+    "category_id": "8",
+    "title": "I write with a pen.",
+    "description": "Tôi viết bằng bút."
+  },
+  {
+    "id": "330",
+    "category_id": "8",
+    "title": "She goes to the library every week.",
+    "description": "Cô ấy đến thư viện mỗi tuần."
+  },
+  {
+    "id": "331",
+    "category_id": "8",
+    "title": "I go to school every day.",
+    "description": "Tôi đi học mỗi ngày."
+  },
+  {
+    "id": "332",
+    "category_id": "8",
+    "title": "I have a lot of homework.",
+    "description": "Tôi có nhiều bài tập về nhà."
+  },
+  {
+    "id": "333",
+    "category_id": "8",
+    "title": "I write with a pen.",
+    "description": "Tôi viết bằng bút."
+  },
+  {
+    "id": "334",
+    "category_id": "8",
+    "title": "I write with a pen.",
+    "description": "Tôi viết bằng bút."
+  },
+  {
+    "id": "335",
+    "category_id": "8",
+    "title": "He is a good student.",
+    "description": "Anh ấy là một học sinh giỏi."
+  },
+  {
+    "id": "336",
+    "category_id": "8",
+    "title": "The teacher is very kind.",
+    "description": "Giáo viên rất tốt bụng."
+  },
+  {
+    "id": "337",
+    "category_id": "8",
+    "title": "She studies English at school.",
+    "description": "Cô ấy học tiếng Anh ở trường."
+  },
+  {
+    "id": "338",
+    "category_id": "8",
+    "title": "She goes to the library every week.",
+    "description": "Cô ấy đến thư viện mỗi tuần."
+  },
+  {
+    "id": "339",
+    "category_id": "8",
+    "title": "I learn science and history.",
+    "description": "Tôi học khoa học và lịch sử."
+  },
+  {
+    "id": "340",
+    "category_id": "8",
+    "title": "He is a good student.",
+    "description": "Anh ấy là một học sinh giỏi."
+  },
+  {
+    "id": "341",
+    "category_id": "8",
+    "title": "I go to school every day.",
+    "description": "Tôi đi học mỗi ngày."
+  },
+  {
+    "id": "342",
+    "category_id": "8",
+    "title": "We have a test tomorrow.",
+    "description": "Chúng tôi có bài kiểm tra vào ngày mai."
+  },
+  {
+    "id": "343",
+    "category_id": "8",
+    "title": "We study together after class.",
+    "description": "Chúng tôi học cùng nhau sau giờ học."
+  },
+  {
+    "id": "344",
+    "category_id": "8",
+    "title": "My school is near my house.",
+    "description": "Trường tôi gần nhà tôi."
+  },
+  {
+    "id": "345",
+    "category_id": "8",
+    "title": "I learn science and history.",
+    "description": "Tôi học khoa học và lịch sử."
+  },
+  {
+    "id": "346",
+    "category_id": "8",
+    "title": "She studies English at school.",
+    "description": "Cô ấy học tiếng Anh ở trường."
+  },
+  {
+    "id": "347",
+    "category_id": "8",
+    "title": "I have a lot of homework.",
+    "description": "Tôi có nhiều bài tập về nhà."
+  },
+  {
+    "id": "348",
+    "category_id": "8",
+    "title": "We have a test tomorrow.",
+    "description": "Chúng tôi có bài kiểm tra vào ngày mai."
+  },
+  {
+    "id": "349",
+    "category_id": "8",
+    "title": "I learn science and history.",
+    "description": "Tôi học khoa học và lịch sử."
+  },
+  {
+    "id": "350",
+    "category_id": "8",
+    "title": "The students are taking notes.",
+    "description": "Các học sinh đang ghi chép."
+  },
+  {
+    "id": "351",
+    "category_id": "9",
+    "title": "My uncle is a farmer.",
+    "description": "Chú tôi là nông dân."
+  },
+  {
+    "id": "352",
+    "category_id": "9",
+    "title": "She is busy with her job.",
+    "description": "Cô ấy bận rộn với công việc."
+  },
+  {
+    "id": "353",
+    "category_id": "9",
+    "title": "My uncle is a farmer.",
+    "description": "Chú tôi là nông dân."
+  },
+  {
+    "id": "354",
+    "category_id": "9",
+    "title": "They work from home.",
+    "description": "Họ làm việc tại nhà."
+  },
+  {
+    "id": "355",
+    "category_id": "9",
+    "title": "My sister is a nurse.",
+    "description": "Chị tôi là y tá."
+  },
+  {
+    "id": "356",
+    "category_id": "9",
+    "title": "My father is a construction worker.",
+    "description": "Bố tôi là công nhân xây dựng."
+  },
+  {
+    "id": "357",
+    "category_id": "9",
+    "title": "My father is a construction worker.",
+    "description": "Bố tôi là công nhân xây dựng."
+  },
+  {
+    "id": "358",
+    "category_id": "9",
+    "title": "He is a teacher.",
+    "description": "Anh ấy là giáo viên."
+  },
+  {
+    "id": "359",
+    "category_id": "9",
+    "title": "They work from home.",
+    "description": "Họ làm việc tại nhà."
+  },
+  {
+    "id": "360",
+    "category_id": "9",
+    "title": "I want to be an engineer.",
+    "description": "Tôi muốn trở thành kỹ sư."
+  },
+  {
+    "id": "361",
+    "category_id": "9",
+    "title": "I enjoy my work.",
+    "description": "Tôi yêu thích công việc của mình."
+  },
+  {
+    "id": "362",
+    "category_id": "9",
+    "title": "He goes to work every morning.",
+    "description": "Anh ấy đi làm mỗi sáng."
+  },
+  {
+    "id": "363",
+    "category_id": "9",
+    "title": "My father is a construction worker.",
+    "description": "Bố tôi là công nhân xây dựng."
+  },
+  {
+    "id": "364",
+    "category_id": "9",
+    "title": "I have a part-time job.",
+    "description": "Tôi có công việc bán thời gian."
+  },
+  {
+    "id": "365",
+    "category_id": "9",
+    "title": "He is a teacher.",
+    "description": "Anh ấy là giáo viên."
+  },
+  {
+    "id": "366",
+    "category_id": "9",
+    "title": "He works at a bank.",
+    "description": "Anh ấy làm việc ở ngân hàng."
+  },
+  {
+    "id": "367",
+    "category_id": "9",
+    "title": "He goes to work every morning.",
+    "description": "Anh ấy đi làm mỗi sáng."
+  },
+  {
+    "id": "368",
+    "category_id": "9",
+    "title": "I enjoy my work.",
+    "description": "Tôi yêu thích công việc của mình."
+  },
+  {
+    "id": "369",
+    "category_id": "9",
+    "title": "I enjoy my work.",
+    "description": "Tôi yêu thích công việc của mình."
+  },
+  {
+    "id": "370",
+    "category_id": "9",
+    "title": "She is busy with her job.",
+    "description": "Cô ấy bận rộn với công việc."
+  },
+  {
+    "id": "371",
+    "category_id": "9",
+    "title": "I enjoy my work.",
+    "description": "Tôi yêu thích công việc của mình."
+  },
+  {
+    "id": "372",
+    "category_id": "9",
+    "title": "I enjoy my work.",
+    "description": "Tôi yêu thích công việc của mình."
+  },
+  {
+    "id": "373",
+    "category_id": "9",
+    "title": "I enjoy my work.",
+    "description": "Tôi yêu thích công việc của mình."
+  },
+  {
+    "id": "374",
+    "category_id": "9",
+    "title": "My sister is a nurse.",
+    "description": "Chị tôi là y tá."
+  },
+  {
+    "id": "375",
+    "category_id": "9",
+    "title": "He is a teacher.",
+    "description": "Anh ấy là giáo viên."
+  },
+  {
+    "id": "376",
+    "category_id": "9",
+    "title": "I enjoy my work.",
+    "description": "Tôi yêu thích công việc của mình."
+  },
+  {
+    "id": "377",
+    "category_id": "9",
+    "title": "My sister is a nurse.",
+    "description": "Chị tôi là y tá."
+  },
+  {
+    "id": "378",
+    "category_id": "9",
+    "title": "He goes to work every morning.",
+    "description": "Anh ấy đi làm mỗi sáng."
+  },
+  {
+    "id": "379",
+    "category_id": "9",
+    "title": "I want to be an engineer.",
+    "description": "Tôi muốn trở thành kỹ sư."
+  },
+  {
+    "id": "380",
+    "category_id": "9",
+    "title": "I want to be an engineer.",
+    "description": "Tôi muốn trở thành kỹ sư."
+  },
+  {
+    "id": "381",
+    "category_id": "9",
+    "title": "I work in an office.",
+    "description": "Tôi làm việc trong văn phòng."
+  },
+  {
+    "id": "382",
+    "category_id": "9",
+    "title": "My father is a construction worker.",
+    "description": "Bố tôi là công nhân xây dựng."
+  },
+  {
+    "id": "383",
+    "category_id": "9",
+    "title": "He goes to work every morning.",
+    "description": "Anh ấy đi làm mỗi sáng."
+  },
+  {
+    "id": "384",
+    "category_id": "9",
+    "title": "My uncle is a farmer.",
+    "description": "Chú tôi là nông dân."
+  },
+  {
+    "id": "385",
+    "category_id": "9",
+    "title": "He goes to work every morning.",
+    "description": "Anh ấy đi làm mỗi sáng."
+  },
+  {
+    "id": "386",
+    "category_id": "9",
+    "title": "My uncle is a farmer.",
+    "description": "Chú tôi là nông dân."
+  },
+  {
+    "id": "387",
+    "category_id": "9",
+    "title": "He goes to work every morning.",
+    "description": "Anh ấy đi làm mỗi sáng."
+  },
+  {
+    "id": "388",
+    "category_id": "9",
+    "title": "My uncle is a farmer.",
+    "description": "Chú tôi là nông dân."
+  },
+  {
+    "id": "389",
+    "category_id": "9",
+    "title": "He is a teacher.",
+    "description": "Anh ấy là giáo viên."
+  },
+  {
+    "id": "390",
+    "category_id": "9",
+    "title": "She is busy with her job.",
+    "description": "Cô ấy bận rộn với công việc."
+  },
+  {
+    "id": "391",
+    "category_id": "9",
+    "title": "She is a software developer.",
+    "description": "Cô ấy là lập trình viên."
+  },
+  {
+    "id": "392",
+    "category_id": "9",
+    "title": "He goes to work every morning.",
+    "description": "Anh ấy đi làm mỗi sáng."
+  },
+  {
+    "id": "393",
+    "category_id": "9",
+    "title": "I have a part-time job.",
+    "description": "Tôi có công việc bán thời gian."
+  },
+  {
+    "id": "394",
+    "category_id": "9",
+    "title": "My sister is a nurse.",
+    "description": "Chị tôi là y tá."
+  },
+  {
+    "id": "395",
+    "category_id": "9",
+    "title": "I want to be an engineer.",
+    "description": "Tôi muốn trở thành kỹ sư."
+  },
+  {
+    "id": "396",
+    "category_id": "9",
+    "title": "She works as a designer.",
+    "description": "Cô ấy làm việc như một nhà thiết kế."
+  },
+  {
+    "id": "397",
+    "category_id": "9",
+    "title": "My father is a construction worker.",
+    "description": "Bố tôi là công nhân xây dựng."
+  },
+  {
+    "id": "398",
+    "category_id": "9",
+    "title": "She is a doctor.",
+    "description": "Cô ấy là bác sĩ."
+  },
+  {
+    "id": "399",
+    "category_id": "9",
+    "title": "I have a part-time job.",
+    "description": "Tôi có công việc bán thời gian."
+  },
+  {
+    "id": "400",
+    "category_id": "9",
+    "title": "She is a doctor.",
+    "description": "Cô ấy là bác sĩ."
+  },
+  {
+    "id": "401",
+    "category_id": "10",
+    "title": "He paid with a credit card.",
+    "description": "Anh ấy đã thanh toán bằng thẻ tín dụng."
+  },
+  {
+    "id": "402",
+    "category_id": "10",
+    "title": "I don’t have enough money.",
+    "description": "Tôi không có đủ tiền."
+  },
+  {
+    "id": "403",
+    "category_id": "10",
+    "title": "Do you have this in a bigger size?.",
+    "description": "Bạn có cái này size lớn hơn không?."
+  },
+  {
+    "id": "404",
+    "category_id": "10",
+    "title": "This is too expensive.",
+    "description": "Cái này quá đắt."
+  },
+  {
+    "id": "405",
+    "category_id": "10",
+    "title": "This is too expensive.",
+    "description": "Cái này quá đắt."
+  },
+  {
+    "id": "406",
+    "category_id": "10",
+    "title": "He bought a gift for his friend.",
+    "description": "Anh ấy đã mua quà cho bạn mình."
+  },
+  {
+    "id": "407",
+    "category_id": "10",
+    "title": "They sell fresh vegetables.",
+    "description": "Họ bán rau tươi."
+  },
+  {
+    "id": "408",
+    "category_id": "10",
+    "title": "She is shopping for clothes.",
+    "description": "Cô ấy đang mua sắm quần áo."
+  },
+  {
+    "id": "409",
+    "category_id": "10",
+    "title": "He paid with a credit card.",
+    "description": "Anh ấy đã thanh toán bằng thẻ tín dụng."
+  },
+  {
+    "id": "410",
+    "category_id": "10",
+    "title": "Can I try this on?.",
+    "description": "Tôi có thể thử cái này không?."
+  },
+  {
+    "id": "411",
+    "category_id": "10",
+    "title": "How much does it cost?.",
+    "description": "Cái này giá bao nhiêu?."
+  },
+  {
+    "id": "412",
+    "category_id": "10",
+    "title": "They sell fresh vegetables.",
+    "description": "Họ bán rau tươi."
+  },
+  {
+    "id": "413",
+    "category_id": "10",
+    "title": "We need to pay the bill.",
+    "description": "Chúng ta cần thanh toán hóa đơn."
+  },
+  {
+    "id": "414",
+    "category_id": "10",
+    "title": "They sell fresh vegetables.",
+    "description": "Họ bán rau tươi."
+  },
+  {
+    "id": "415",
+    "category_id": "10",
+    "title": "I got a discount.",
+    "description": "Tôi được giảm giá."
+  },
+  {
+    "id": "416",
+    "category_id": "10",
+    "title": "They sell fresh vegetables.",
+    "description": "Họ bán rau tươi."
+  },
+  {
+    "id": "417",
+    "category_id": "10",
+    "title": "Do you have this in a bigger size?.",
+    "description": "Bạn có cái này size lớn hơn không?."
+  },
+  {
+    "id": "418",
+    "category_id": "10",
+    "title": "I like to shop online.",
+    "description": "Tôi thích mua sắm trực tuyến."
+  },
+  {
+    "id": "419",
+    "category_id": "10",
+    "title": "He paid with a credit card.",
+    "description": "Anh ấy đã thanh toán bằng thẻ tín dụng."
+  },
+  {
+    "id": "420",
+    "category_id": "10",
+    "title": "He bought a gift for his friend.",
+    "description": "Anh ấy đã mua quà cho bạn mình."
+  },
+  {
+    "id": "421",
+    "category_id": "10",
+    "title": "I don’t have enough money.",
+    "description": "Tôi không có đủ tiền."
+  },
+  {
+    "id": "422",
+    "category_id": "10",
+    "title": "I want to buy a new phone.",
+    "description": "Tôi muốn mua một chiếc điện thoại mới."
+  },
+  {
+    "id": "423",
+    "category_id": "10",
+    "title": "I got a discount.",
+    "description": "Tôi được giảm giá."
+  },
+  {
+    "id": "424",
+    "category_id": "10",
+    "title": "This is too expensive.",
+    "description": "Cái này quá đắt."
+  },
+  {
+    "id": "425",
+    "category_id": "10",
+    "title": "Do you have this in a bigger size?.",
+    "description": "Bạn có cái này size lớn hơn không?."
+  },
+  {
+    "id": "426",
+    "category_id": "10",
+    "title": "I got a discount.",
+    "description": "Tôi được giảm giá."
+  },
+  {
+    "id": "427",
+    "category_id": "10",
+    "title": "She is saving money.",
+    "description": "Cô ấy đang tiết kiệm tiền."
+  },
+  {
+    "id": "428",
+    "category_id": "10",
+    "title": "How much does it cost?.",
+    "description": "Cái này giá bao nhiêu?."
+  },
+  {
+    "id": "429",
+    "category_id": "10",
+    "title": "We need to pay the bill.",
+    "description": "Chúng ta cần thanh toán hóa đơn."
+  },
+  {
+    "id": "430",
+    "category_id": "10",
+    "title": "She is shopping for clothes.",
+    "description": "Cô ấy đang mua sắm quần áo."
+  },
+  {
+    "id": "431",
+    "category_id": "10",
+    "title": "We need to pay the bill.",
+    "description": "Chúng ta cần thanh toán hóa đơn."
+  },
+  {
+    "id": "432",
+    "category_id": "10",
+    "title": "How much does it cost?.",
+    "description": "Cái này giá bao nhiêu?."
+  },
+  {
+    "id": "433",
+    "category_id": "10",
+    "title": "He paid with a credit card.",
+    "description": "Anh ấy đã thanh toán bằng thẻ tín dụng."
+  },
+  {
+    "id": "434",
+    "category_id": "10",
+    "title": "He paid with a credit card.",
+    "description": "Anh ấy đã thanh toán bằng thẻ tín dụng."
+  },
+  {
+    "id": "435",
+    "category_id": "10",
+    "title": "I like to shop online.",
+    "description": "Tôi thích mua sắm trực tuyến."
+  },
+  {
+    "id": "436",
+    "category_id": "10",
+    "title": "Do you have this in a bigger size?.",
+    "description": "Bạn có cái này size lớn hơn không?."
+  },
+  {
+    "id": "437",
+    "category_id": "10",
+    "title": "Do you have this in a bigger size?.",
+    "description": "Bạn có cái này size lớn hơn không?."
+  },
+  {
+    "id": "438",
+    "category_id": "10",
+    "title": "Can I try this on?.",
+    "description": "Tôi có thể thử cái này không?."
+  },
+  {
+    "id": "439",
+    "category_id": "10",
+    "title": "He paid with a credit card.",
+    "description": "Anh ấy đã thanh toán bằng thẻ tín dụng."
+  },
+  {
+    "id": "440",
+    "category_id": "10",
+    "title": "I like to shop online.",
+    "description": "Tôi thích mua sắm trực tuyến."
+  },
+  {
+    "id": "441",
+    "category_id": "10",
+    "title": "He bought a gift for his friend.",
+    "description": "Anh ấy đã mua quà cho bạn mình."
+  },
+  {
+    "id": "442",
+    "category_id": "10",
+    "title": "They sell fresh vegetables.",
+    "description": "Họ bán rau tươi."
+  },
+  {
+    "id": "443",
+    "category_id": "10",
+    "title": "We need to pay the bill.",
+    "description": "Chúng ta cần thanh toán hóa đơn."
+  },
+  {
+    "id": "444",
+    "category_id": "10",
+    "title": "I got a discount.",
+    "description": "Tôi được giảm giá."
+  },
+  {
+    "id": "445",
+    "category_id": "10",
+    "title": "This is too expensive.",
+    "description": "Cái này quá đắt."
+  },
+  {
+    "id": "446",
+    "category_id": "10",
+    "title": "She is saving money.",
+    "description": "Cô ấy đang tiết kiệm tiền."
+  },
+  {
+    "id": "447",
+    "category_id": "10",
+    "title": "I got a discount.",
+    "description": "Tôi được giảm giá."
+  },
+  {
+    "id": "448",
+    "category_id": "10",
+    "title": "We need to pay the bill.",
+    "description": "Chúng ta cần thanh toán hóa đơn."
+  },
+  {
+    "id": "449",
+    "category_id": "10",
+    "title": "Do you have this in a bigger size?.",
+    "description": "Bạn có cái này size lớn hơn không?."
+  },
+  {
+    "id": "450",
+    "category_id": "10",
+    "title": "He paid with a credit card.",
+    "description": "Anh ấy đã thanh toán bằng thẻ tín dụng."
+  },
+  {
+    "id": "451",
+    "category_id": "11",
+    "title": "He is booking a hotel.",
+    "description": "Anh ấy đang đặt phòng khách sạn."
+  },
+  {
+    "id": "452",
+    "category_id": "11",
+    "title": "They are visiting the Eiffel Tower.",
+    "description": "Họ đang tham quan tháp Eiffel."
+  },
+  {
+    "id": "453",
+    "category_id": "11",
+    "title": "He traveled by plane.",
+    "description": "Anh ấy đã đi máy bay."
+  },
+  {
+    "id": "454",
+    "category_id": "11",
+    "title": "I want to travel to Japan.",
+    "description": "Tôi muốn đi du lịch đến Nhật Bản."
+  },
+  {
+    "id": "455",
+    "category_id": "11",
+    "title": "I need a passport.",
+    "description": "Tôi cần hộ chiếu."
+  },
+  {
+    "id": "456",
+    "category_id": "11",
+    "title": "I want to travel to Japan.",
+    "description": "Tôi muốn đi du lịch đến Nhật Bản."
+  },
+  {
+    "id": "457",
+    "category_id": "11",
+    "title": "She took a lot of photos.",
+    "description": "Cô ấy đã chụp rất nhiều ảnh."
+  },
+  {
+    "id": "458",
+    "category_id": "11",
+    "title": "I enjoy sightseeing.",
+    "description": "Tôi thích đi tham quan."
+  },
+  {
+    "id": "459",
+    "category_id": "11",
+    "title": "She took a lot of photos.",
+    "description": "Cô ấy đã chụp rất nhiều ảnh."
+  },
+  {
+    "id": "460",
+    "category_id": "11",
+    "title": "They are visiting the Eiffel Tower.",
+    "description": "Họ đang tham quan tháp Eiffel."
+  },
+  {
+    "id": "461",
+    "category_id": "11",
+    "title": "She took a lot of photos.",
+    "description": "Cô ấy đã chụp rất nhiều ảnh."
+  },
+  {
+    "id": "462",
+    "category_id": "11",
+    "title": "We are going to the beach.",
+    "description": "Chúng tôi sẽ đi biển."
+  },
+  {
+    "id": "463",
+    "category_id": "11",
+    "title": "She took a lot of photos.",
+    "description": "Cô ấy đã chụp rất nhiều ảnh."
+  },
+  {
+    "id": "464",
+    "category_id": "11",
+    "title": "He traveled by plane.",
+    "description": "Anh ấy đã đi máy bay."
+  },
+  {
+    "id": "465",
+    "category_id": "11",
+    "title": "We visited a famous museum.",
+    "description": "Chúng tôi đã tham quan một bảo tàng nổi tiếng."
+  },
+  {
+    "id": "466",
+    "category_id": "11",
+    "title": "He is booking a hotel.",
+    "description": "Anh ấy đang đặt phòng khách sạn."
+  },
+  {
+    "id": "467",
+    "category_id": "11",
+    "title": "They are visiting the Eiffel Tower.",
+    "description": "Họ đang tham quan tháp Eiffel."
+  },
+  {
+    "id": "468",
+    "category_id": "11",
+    "title": "They went on a tour.",
+    "description": "Họ đã tham gia một chuyến du lịch."
+  },
+  {
+    "id": "469",
+    "category_id": "11",
+    "title": "We are going to the beach.",
+    "description": "Chúng tôi sẽ đi biển."
+  },
+  {
+    "id": "470",
+    "category_id": "11",
+    "title": "We visited a famous museum.",
+    "description": "Chúng tôi đã tham quan một bảo tàng nổi tiếng."
+  },
+  {
+    "id": "471",
+    "category_id": "11",
+    "title": "I enjoy sightseeing.",
+    "description": "Tôi thích đi tham quan."
+  },
+  {
+    "id": "472",
+    "category_id": "11",
+    "title": "We are going to the beach.",
+    "description": "Chúng tôi sẽ đi biển."
+  },
+  {
+    "id": "473",
+    "category_id": "11",
+    "title": "I enjoy sightseeing.",
+    "description": "Tôi thích đi tham quan."
+  },
+  {
+    "id": "474",
+    "category_id": "11",
+    "title": "He traveled by plane.",
+    "description": "Anh ấy đã đi máy bay."
+  },
+  {
+    "id": "475",
+    "category_id": "11",
+    "title": "I enjoy sightseeing.",
+    "description": "Tôi thích đi tham quan."
+  },
+  {
+    "id": "476",
+    "category_id": "11",
+    "title": "He traveled by plane.",
+    "description": "Anh ấy đã đi máy bay."
+  },
+  {
+    "id": "477",
+    "category_id": "11",
+    "title": "They are visiting the Eiffel Tower.",
+    "description": "Họ đang tham quan tháp Eiffel."
+  },
+  {
+    "id": "478",
+    "category_id": "11",
+    "title": "We are going to the beach.",
+    "description": "Chúng tôi sẽ đi biển."
+  },
+  {
+    "id": "479",
+    "category_id": "11",
+    "title": "He is booking a hotel.",
+    "description": "Anh ấy đang đặt phòng khách sạn."
+  },
+  {
+    "id": "480",
+    "category_id": "11",
+    "title": "I bought souvenirs.",
+    "description": "Tôi đã mua quà lưu niệm."
+  },
+  {
+    "id": "481",
+    "category_id": "11",
+    "title": "He is booking a hotel.",
+    "description": "Anh ấy đang đặt phòng khách sạn."
+  },
+  {
+    "id": "482",
+    "category_id": "11",
+    "title": "We stayed at a resort.",
+    "description": "Chúng tôi ở tại một khu nghỉ dưỡng."
+  },
+  {
+    "id": "483",
+    "category_id": "11",
+    "title": "The view is beautiful.",
+    "description": "Quang cảnh thật đẹp."
+  },
+  {
+    "id": "484",
+    "category_id": "11",
+    "title": "I enjoy sightseeing.",
+    "description": "Tôi thích đi tham quan."
+  },
+  {
+    "id": "485",
+    "category_id": "11",
+    "title": "I want to travel to Japan.",
+    "description": "Tôi muốn đi du lịch đến Nhật Bản."
+  },
+  {
+    "id": "486",
+    "category_id": "11",
+    "title": "They are visiting the Eiffel Tower.",
+    "description": "Họ đang tham quan tháp Eiffel."
+  },
+  {
+    "id": "487",
+    "category_id": "11",
+    "title": "I want to travel to Japan.",
+    "description": "Tôi muốn đi du lịch đến Nhật Bản."
+  },
+  {
+    "id": "488",
+    "category_id": "11",
+    "title": "I bought souvenirs.",
+    "description": "Tôi đã mua quà lưu niệm."
+  },
+  {
+    "id": "489",
+    "category_id": "11",
+    "title": "She is planning a trip.",
+    "description": "Cô ấy đang lên kế hoạch cho một chuyến đi."
+  },
+  {
+    "id": "490",
+    "category_id": "11",
+    "title": "He traveled by plane.",
+    "description": "Anh ấy đã đi máy bay."
+  },
+  {
+    "id": "491",
+    "category_id": "11",
+    "title": "We visited a famous museum.",
+    "description": "Chúng tôi đã tham quan một bảo tàng nổi tiếng."
+  },
+  {
+    "id": "492",
+    "category_id": "11",
+    "title": "I enjoy sightseeing.",
+    "description": "Tôi thích đi tham quan."
+  },
+  {
+    "id": "493",
+    "category_id": "11",
+    "title": "We are going to the beach.",
+    "description": "Chúng tôi sẽ đi biển."
+  },
+  {
+    "id": "494",
+    "category_id": "11",
+    "title": "He traveled by plane.",
+    "description": "Anh ấy đã đi máy bay."
+  },
+  {
+    "id": "495",
+    "category_id": "11",
+    "title": "We stayed at a resort.",
+    "description": "Chúng tôi ở tại một khu nghỉ dưỡng."
+  },
+  {
+    "id": "496",
+    "category_id": "11",
+    "title": "I want to travel to Japan.",
+    "description": "Tôi muốn đi du lịch đến Nhật Bản."
+  },
+  {
+    "id": "497",
+    "category_id": "11",
+    "title": "I bought souvenirs.",
+    "description": "Tôi đã mua quà lưu niệm."
+  },
+  {
+    "id": "498",
+    "category_id": "11",
+    "title": "We stayed at a resort.",
+    "description": "Chúng tôi ở tại một khu nghỉ dưỡng."
+  },
+  {
+    "id": "499",
+    "category_id": "11",
+    "title": "He is booking a hotel.",
+    "description": "Anh ấy đang đặt phòng khách sạn."
+  },
+  {
+    "id": "500",
+    "category_id": "11",
+    "title": "We visited a famous museum.",
+    "description": "Chúng tôi đã tham quan một bảo tàng nổi tiếng."
+  },
+  {
+    "id": "501",
+    "category_id": "12",
+    "title": "I ride a bicycle to stay fit.",
+    "description": "Tôi đạp xe để giữ dáng."
+  },
+  {
+    "id": "502",
+    "category_id": "12",
+    "title": "She dances to stay healthy.",
+    "description": "Cô ấy khiêu vũ để giữ sức khỏe."
+  },
+  {
+    "id": "503",
+    "category_id": "12",
+    "title": "I do yoga to relax.",
+    "description": "Tôi tập yoga để thư giãn."
+  },
+  {
+    "id": "504",
+    "category_id": "12",
+    "title": "She dances to stay healthy.",
+    "description": "Cô ấy khiêu vũ để giữ sức khỏe."
+  },
+  {
+    "id": "505",
+    "category_id": "12",
+    "title": "They play tennis on Sundays.",
+    "description": "Họ chơi tennis vào Chủ nhật."
+  },
+  {
+    "id": "506",
+    "category_id": "12",
+    "title": "I do yoga to relax.",
+    "description": "Tôi tập yoga để thư giãn."
+  },
+  {
+    "id": "507",
+    "category_id": "12",
+    "title": "She joined a fitness class.",
+    "description": "Cô ấy tham gia một lớp thể hình."
+  },
+  {
+    "id": "508",
+    "category_id": "12",
+    "title": "They play tennis on Sundays.",
+    "description": "Họ chơi tennis vào Chủ nhật."
+  },
+  {
+    "id": "509",
+    "category_id": "12",
+    "title": "He lifts weights at the gym.",
+    "description": "Anh ấy tập tạ ở phòng gym."
+  },
+  {
+    "id": "510",
+    "category_id": "12",
+    "title": "He runs five kilometers every day.",
+    "description": "Anh ấy chạy 5 km mỗi ngày."
+  },
+  {
+    "id": "511",
+    "category_id": "12",
+    "title": "She joined a fitness class.",
+    "description": "Cô ấy tham gia một lớp thể hình."
+  },
+  {
+    "id": "512",
+    "category_id": "12",
+    "title": "We warm up before exercise.",
+    "description": "Chúng tôi khởi động trước khi tập luyện."
+  },
+  {
+    "id": "513",
+    "category_id": "12",
+    "title": "She dances to stay healthy.",
+    "description": "Cô ấy khiêu vũ để giữ sức khỏe."
+  },
+  {
+    "id": "514",
+    "category_id": "12",
+    "title": "We practice martial arts.",
+    "description": "Chúng tôi tập võ."
+  },
+  {
+    "id": "515",
+    "category_id": "12",
+    "title": "He plays badminton at school.",
+    "description": "Anh ấy chơi cầu lông ở trường."
+  },
+  {
+    "id": "516",
+    "category_id": "12",
+    "title": "He runs five kilometers every day.",
+    "description": "Anh ấy chạy 5 km mỗi ngày."
+  },
+  {
+    "id": "517",
+    "category_id": "12",
+    "title": "He runs five kilometers every day.",
+    "description": "Anh ấy chạy 5 km mỗi ngày."
+  },
+  {
+    "id": "518",
+    "category_id": "12",
+    "title": "I ride a bicycle to stay fit.",
+    "description": "Tôi đạp xe để giữ dáng."
+  },
+  {
+    "id": "519",
+    "category_id": "12",
+    "title": "We practice martial arts.",
+    "description": "Chúng tôi tập võ."
+  },
+  {
+    "id": "520",
+    "category_id": "12",
+    "title": "We warm up before exercise.",
+    "description": "Chúng tôi khởi động trước khi tập luyện."
+  },
+  {
+    "id": "521",
+    "category_id": "12",
+    "title": "She goes jogging every morning.",
+    "description": "Cô ấy chạy bộ mỗi sáng."
+  },
+  {
+    "id": "522",
+    "category_id": "12",
+    "title": "I ride a bicycle to stay fit.",
+    "description": "Tôi đạp xe để giữ dáng."
+  },
+  {
+    "id": "523",
+    "category_id": "12",
+    "title": "I do yoga to relax.",
+    "description": "Tôi tập yoga để thư giãn."
+  },
+  {
+    "id": "524",
+    "category_id": "12",
+    "title": "I do yoga to relax.",
+    "description": "Tôi tập yoga để thư giãn."
+  },
+  {
+    "id": "525",
+    "category_id": "12",
+    "title": "I ride a bicycle to stay fit.",
+    "description": "Tôi đạp xe để giữ dáng."
+  },
+  {
+    "id": "526",
+    "category_id": "12",
+    "title": "He lifts weights at the gym.",
+    "description": "Anh ấy tập tạ ở phòng gym."
+  },
+  {
+    "id": "527",
+    "category_id": "12",
+    "title": "He plays basketball with his friends.",
+    "description": "Anh ấy chơi bóng rổ với bạn."
+  },
+  {
+    "id": "528",
+    "category_id": "12",
+    "title": "He lifts weights at the gym.",
+    "description": "Anh ấy tập tạ ở phòng gym."
+  },
+  {
+    "id": "529",
+    "category_id": "12",
+    "title": "They play tennis on Sundays.",
+    "description": "Họ chơi tennis vào Chủ nhật."
+  },
+  {
+    "id": "530",
+    "category_id": "12",
+    "title": "We warm up before exercise.",
+    "description": "Chúng tôi khởi động trước khi tập luyện."
+  },
+  {
+    "id": "531",
+    "category_id": "12",
+    "title": "They play tennis on Sundays.",
+    "description": "Họ chơi tennis vào Chủ nhật."
+  },
+  {
+    "id": "532",
+    "category_id": "12",
+    "title": "We warm up before exercise.",
+    "description": "Chúng tôi khởi động trước khi tập luyện."
+  },
+  {
+    "id": "533",
+    "category_id": "12",
+    "title": "We warm up before exercise.",
+    "description": "Chúng tôi khởi động trước khi tập luyện."
+  },
+  {
+    "id": "534",
+    "category_id": "12",
+    "title": "He plays badminton at school.",
+    "description": "Anh ấy chơi cầu lông ở trường."
+  },
+  {
+    "id": "535",
+    "category_id": "12",
+    "title": "He plays badminton at school.",
+    "description": "Anh ấy chơi cầu lông ở trường."
+  },
+  {
+    "id": "536",
+    "category_id": "12",
+    "title": "She joined a fitness class.",
+    "description": "Cô ấy tham gia một lớp thể hình."
+  },
+  {
+    "id": "537",
+    "category_id": "12",
+    "title": "She dances to stay healthy.",
+    "description": "Cô ấy khiêu vũ để giữ sức khỏe."
+  },
+  {
+    "id": "538",
+    "category_id": "12",
+    "title": "I ride a bicycle to stay fit.",
+    "description": "Tôi đạp xe để giữ dáng."
+  },
+  {
+    "id": "539",
+    "category_id": "12",
+    "title": "She joined a fitness class.",
+    "description": "Cô ấy tham gia một lớp thể hình."
+  },
+  {
+    "id": "540",
+    "category_id": "12",
+    "title": "I play football on weekends.",
+    "description": "Tôi chơi bóng đá vào cuối tuần."
+  },
+  {
+    "id": "541",
+    "category_id": "12",
+    "title": "I play football on weekends.",
+    "description": "Tôi chơi bóng đá vào cuối tuần."
+  },
+  {
+    "id": "542",
+    "category_id": "12",
+    "title": "They play tennis on Sundays.",
+    "description": "Họ chơi tennis vào Chủ nhật."
+  },
+  {
+    "id": "543",
+    "category_id": "12",
+    "title": "I do yoga to relax.",
+    "description": "Tôi tập yoga để thư giãn."
+  },
+  {
+    "id": "544",
+    "category_id": "12",
+    "title": "He runs five kilometers every day.",
+    "description": "Anh ấy chạy 5 km mỗi ngày."
+  },
+  {
+    "id": "545",
+    "category_id": "12",
+    "title": "I play football on weekends.",
+    "description": "Tôi chơi bóng đá vào cuối tuần."
+  },
+  {
+    "id": "546",
+    "category_id": "12",
+    "title": "He plays basketball with his friends.",
+    "description": "Anh ấy chơi bóng rổ với bạn."
+  },
+  {
+    "id": "547",
+    "category_id": "12",
+    "title": "I stretch before working out.",
+    "description": "Tôi giãn cơ trước khi tập."
+  },
+  {
+    "id": "548",
+    "category_id": "12",
+    "title": "We warm up before exercise.",
+    "description": "Chúng tôi khởi động trước khi tập luyện."
+  },
+  {
+    "id": "549",
+    "category_id": "12",
+    "title": "She dances to stay healthy.",
+    "description": "Cô ấy khiêu vũ để giữ sức khỏe."
+  },
+  {
+    "id": "550",
+    "category_id": "12",
+    "title": "She joined a fitness class.",
+    "description": "Cô ấy tham gia một lớp thể hình."
+  },
+  {
+    "id": "551",
+    "category_id": "13",
+    "title": "My computer is very fast.",
+    "description": "Máy tính của tôi rất nhanh."
+  },
+  {
+    "id": "552",
+    "category_id": "13",
+    "title": "We use technology every day.",
+    "description": "Chúng tôi sử dụng công nghệ mỗi ngày."
+  },
+  {
+    "id": "553",
+    "category_id": "13",
+    "title": "He connects to Wi-Fi.",
+    "description": "Anh ấy kết nối Wi-Fi."
+  },
+  {
+    "id": "554",
+    "category_id": "13",
+    "title": "I store files in the cloud.",
+    "description": "Tôi lưu trữ tệp trên đám mây."
+  },
+  {
+    "id": "555",
+    "category_id": "13",
+    "title": "We watch movies on the TV.",
+    "description": "Chúng tôi xem phim trên TV."
+  },
+  {
+    "id": "556",
+    "category_id": "13",
+    "title": "She listens to music with headphones.",
+    "description": "Cô ấy nghe nhạc bằng tai nghe."
+  },
+  {
+    "id": "557",
+    "category_id": "13",
+    "title": "My computer is very fast.",
+    "description": "Máy tính của tôi rất nhanh."
+  },
+  {
+    "id": "558",
+    "category_id": "13",
+    "title": "They are using a printer.",
+    "description": "Họ đang sử dụng máy in."
+  },
+  {
+    "id": "559",
+    "category_id": "13",
+    "title": "I use a smartphone every day.",
+    "description": "Tôi dùng điện thoại thông minh mỗi ngày."
+  },
+  {
+    "id": "560",
+    "category_id": "13",
+    "title": "He connects to Wi-Fi.",
+    "description": "Anh ấy kết nối Wi-Fi."
+  },
+  {
+    "id": "561",
+    "category_id": "13",
+    "title": "She works on a laptop.",
+    "description": "Cô ấy làm việc trên máy tính xách tay."
+  },
+  {
+    "id": "562",
+    "category_id": "13",
+    "title": "I charge my phone every night.",
+    "description": "Tôi sạc điện thoại mỗi tối."
+  },
+  {
+    "id": "563",
+    "category_id": "13",
+    "title": "I store files in the cloud.",
+    "description": "Tôi lưu trữ tệp trên đám mây."
+  },
+  {
+    "id": "564",
+    "category_id": "13",
+    "title": "She works on a laptop.",
+    "description": "Cô ấy làm việc trên máy tính xách tay."
+  },
+  {
+    "id": "565",
+    "category_id": "13",
+    "title": "He connects to Wi-Fi.",
+    "description": "Anh ấy kết nối Wi-Fi."
+  },
+  {
+    "id": "566",
+    "category_id": "13",
+    "title": "I use a smartphone every day.",
+    "description": "Tôi dùng điện thoại thông minh mỗi ngày."
+  },
+  {
+    "id": "567",
+    "category_id": "13",
+    "title": "She listens to music with headphones.",
+    "description": "Cô ấy nghe nhạc bằng tai nghe."
+  },
+  {
+    "id": "568",
+    "category_id": "13",
+    "title": "My computer is very fast.",
+    "description": "Máy tính của tôi rất nhanh."
+  },
+  {
+    "id": "569",
+    "category_id": "13",
+    "title": "They are using a printer.",
+    "description": "Họ đang sử dụng máy in."
+  },
+  {
+    "id": "570",
+    "category_id": "13",
+    "title": "She listens to music with headphones.",
+    "description": "Cô ấy nghe nhạc bằng tai nghe."
+  },
+  {
+    "id": "571",
+    "category_id": "13",
+    "title": "He connects to Wi-Fi.",
+    "description": "Anh ấy kết nối Wi-Fi."
+  },
+  {
+    "id": "572",
+    "category_id": "13",
+    "title": "He bought a new camera.",
+    "description": "Anh ấy đã mua một chiếc máy ảnh mới."
+  },
+  {
+    "id": "573",
+    "category_id": "13",
+    "title": "They are learning to code.",
+    "description": "Họ đang học lập trình."
+  },
+  {
+    "id": "574",
+    "category_id": "13",
+    "title": "She uses a smartwatch.",
+    "description": "Cô ấy dùng đồng hồ thông minh."
+  },
+  {
+    "id": "575",
+    "category_id": "13",
+    "title": "I send emails every day.",
+    "description": "Tôi gửi email mỗi ngày."
+  },
+  {
+    "id": "576",
+    "category_id": "13",
+    "title": "I store files in the cloud.",
+    "description": "Tôi lưu trữ tệp trên đám mây."
+  },
+  {
+    "id": "577",
+    "category_id": "13",
+    "title": "We use technology every day.",
+    "description": "Chúng tôi sử dụng công nghệ mỗi ngày."
+  },
+  {
+    "id": "578",
+    "category_id": "13",
+    "title": "He is playing games on his tablet.",
+    "description": "Anh ấy đang chơi game trên máy tính bảng."
+  },
+  {
+    "id": "579",
+    "category_id": "13",
+    "title": "She works on a laptop.",
+    "description": "Cô ấy làm việc trên máy tính xách tay."
+  },
+  {
+    "id": "580",
+    "category_id": "13",
+    "title": "I store files in the cloud.",
+    "description": "Tôi lưu trữ tệp trên đám mây."
+  },
+  {
+    "id": "581",
+    "category_id": "13",
+    "title": "I use a smartphone every day.",
+    "description": "Tôi dùng điện thoại thông minh mỗi ngày."
+  },
+  {
+    "id": "582",
+    "category_id": "13",
+    "title": "I store files in the cloud.",
+    "description": "Tôi lưu trữ tệp trên đám mây."
+  },
+  {
+    "id": "583",
+    "category_id": "13",
+    "title": "I store files in the cloud.",
+    "description": "Tôi lưu trữ tệp trên đám mây."
+  },
+  {
+    "id": "584",
+    "category_id": "13",
+    "title": "They are using a printer.",
+    "description": "Họ đang sử dụng máy in."
+  },
+  {
+    "id": "585",
+    "category_id": "13",
+    "title": "I use a smartphone every day.",
+    "description": "Tôi dùng điện thoại thông minh mỗi ngày."
+  },
+  {
+    "id": "586",
+    "category_id": "13",
+    "title": "He bought a new camera.",
+    "description": "Anh ấy đã mua một chiếc máy ảnh mới."
+  },
+  {
+    "id": "587",
+    "category_id": "13",
+    "title": "I charge my phone every night.",
+    "description": "Tôi sạc điện thoại mỗi tối."
+  },
+  {
+    "id": "588",
+    "category_id": "13",
+    "title": "My computer is very fast.",
+    "description": "Máy tính của tôi rất nhanh."
+  },
+  {
+    "id": "589",
+    "category_id": "13",
+    "title": "We watch movies on the TV.",
+    "description": "Chúng tôi xem phim trên TV."
+  },
+  {
+    "id": "590",
+    "category_id": "13",
+    "title": "They are using a printer.",
+    "description": "Họ đang sử dụng máy in."
+  },
+  {
+    "id": "591",
+    "category_id": "13",
+    "title": "We use technology every day.",
+    "description": "Chúng tôi sử dụng công nghệ mỗi ngày."
+  },
+  {
+    "id": "592",
+    "category_id": "13",
+    "title": "She uses a smartwatch.",
+    "description": "Cô ấy dùng đồng hồ thông minh."
+  },
+  {
+    "id": "593",
+    "category_id": "13",
+    "title": "My computer is very fast.",
+    "description": "Máy tính của tôi rất nhanh."
+  },
+  {
+    "id": "594",
+    "category_id": "13",
+    "title": "We use technology every day.",
+    "description": "Chúng tôi sử dụng công nghệ mỗi ngày."
+  },
+  {
+    "id": "595",
+    "category_id": "13",
+    "title": "I charge my phone every night.",
+    "description": "Tôi sạc điện thoại mỗi tối."
+  },
+  {
+    "id": "596",
+    "category_id": "13",
+    "title": "He is playing games on his tablet.",
+    "description": "Anh ấy đang chơi game trên máy tính bảng."
+  },
+  {
+    "id": "597",
+    "category_id": "13",
+    "title": "She works on a laptop.",
+    "description": "Cô ấy làm việc trên máy tính xách tay."
+  },
+  {
+    "id": "598",
+    "category_id": "13",
+    "title": "He bought a new camera.",
+    "description": "Anh ấy đã mua một chiếc máy ảnh mới."
+  },
+  {
+    "id": "599",
+    "category_id": "13",
+    "title": "I charge my phone every night.",
+    "description": "Tôi sạc điện thoại mỗi tối."
+  },
+  {
+    "id": "600",
+    "category_id": "13",
+    "title": "He bought a new camera.",
+    "description": "Anh ấy đã mua một chiếc máy ảnh mới."
+  },
+  {
+    "id": "601",
+    "category_id": "14",
+    "title": "I love going to concerts.",
+    "description": "Tôi thích đi xem ca nhạc."
+  },
+  {
+    "id": "602",
+    "category_id": "14",
+    "title": "I like reality shows.",
+    "description": "Tôi thích chương trình thực tế."
+  },
+  {
+    "id": "603",
+    "category_id": "14",
+    "title": "He plays the piano for fun.",
+    "description": "Anh ấy chơi piano để giải trí."
+  },
+  {
+    "id": "604",
+    "category_id": "14",
+    "title": "He plays the piano for fun.",
+    "description": "Anh ấy chơi piano để giải trí."
+  },
+  {
+    "id": "605",
+    "category_id": "14",
+    "title": "We watched a comedy last night.",
+    "description": "Chúng tôi đã xem một bộ phim hài tối qua."
+  },
+  {
+    "id": "606",
+    "category_id": "14",
+    "title": "I enjoy going to the theater.",
+    "description": "Tôi thích đi xem kịch."
+  },
+  {
+    "id": "607",
+    "category_id": "14",
+    "title": "We watched a comedy last night.",
+    "description": "Chúng tôi đã xem một bộ phim hài tối qua."
+  },
+  {
+    "id": "608",
+    "category_id": "14",
+    "title": "She dances as a hobby.",
+    "description": "Cô ấy nhảy múa như một sở thích."
+  },
+  {
+    "id": "609",
+    "category_id": "14",
+    "title": "I love going to concerts.",
+    "description": "Tôi thích đi xem ca nhạc."
+  },
+  {
+    "id": "610",
+    "category_id": "14",
+    "title": "I like watching action movies.",
+    "description": "Tôi thích xem phim hành động."
+  },
+  {
+    "id": "611",
+    "category_id": "14",
+    "title": "They went to a music festival.",
+    "description": "Họ đã đi đến một lễ hội âm nhạc."
+  },
+  {
+    "id": "612",
+    "category_id": "14",
+    "title": "She dances as a hobby.",
+    "description": "Cô ấy nhảy múa như một sở thích."
+  },
+  {
+    "id": "613",
+    "category_id": "14",
+    "title": "We enjoy playing board games.",
+    "description": "Chúng tôi thích chơi trò chơi bàn."
+  },
+  {
+    "id": "614",
+    "category_id": "14",
+    "title": "She dances as a hobby.",
+    "description": "Cô ấy nhảy múa như một sở thích."
+  },
+  {
+    "id": "615",
+    "category_id": "14",
+    "title": "He is a fan of science fiction.",
+    "description": "Anh ấy là fan của phim khoa học viễn tưởng."
+  },
+  {
+    "id": "616",
+    "category_id": "14",
+    "title": "I like reality shows.",
+    "description": "Tôi thích chương trình thực tế."
+  },
+  {
+    "id": "617",
+    "category_id": "14",
+    "title": "We watched a comedy last night.",
+    "description": "Chúng tôi đã xem một bộ phim hài tối qua."
+  },
+  {
+    "id": "618",
+    "category_id": "14",
+    "title": "I like watching action movies.",
+    "description": "Tôi thích xem phim hành động."
+  },
+  {
+    "id": "619",
+    "category_id": "14",
+    "title": "They enjoy romantic films.",
+    "description": "Họ thích phim tình cảm."
+  },
+  {
+    "id": "620",
+    "category_id": "14",
+    "title": "We watched a comedy last night.",
+    "description": "Chúng tôi đã xem một bộ phim hài tối qua."
+  },
+  {
+    "id": "621",
+    "category_id": "14",
+    "title": "They went to a music festival.",
+    "description": "Họ đã đi đến một lễ hội âm nhạc."
+  },
+  {
+    "id": "622",
+    "category_id": "14",
+    "title": "He is a fan of science fiction.",
+    "description": "Anh ấy là fan của phim khoa học viễn tưởng."
+  },
+  {
+    "id": "623",
+    "category_id": "14",
+    "title": "He is a fan of science fiction.",
+    "description": "Anh ấy là fan của phim khoa học viễn tưởng."
+  },
+  {
+    "id": "624",
+    "category_id": "14",
+    "title": "We enjoy playing board games.",
+    "description": "Chúng tôi thích chơi trò chơi bàn."
+  },
+  {
+    "id": "625",
+    "category_id": "14",
+    "title": "He plays the piano for fun.",
+    "description": "Anh ấy chơi piano để giải trí."
+  },
+  {
+    "id": "626",
+    "category_id": "14",
+    "title": "She listens to pop music.",
+    "description": "Cô ấy nghe nhạc pop."
+  },
+  {
+    "id": "627",
+    "category_id": "14",
+    "title": "I like watching action movies.",
+    "description": "Tôi thích xem phim hành động."
+  },
+  {
+    "id": "628",
+    "category_id": "14",
+    "title": "We watched a comedy last night.",
+    "description": "Chúng tôi đã xem một bộ phim hài tối qua."
+  },
+  {
+    "id": "629",
+    "category_id": "14",
+    "title": "He watches TV shows at night.",
+    "description": "Anh ấy xem chương trình TV vào ban đêm."
+  },
+  {
+    "id": "630",
+    "category_id": "14",
+    "title": "He is a fan of science fiction.",
+    "description": "Anh ấy là fan của phim khoa học viễn tưởng."
+  },
+  {
+    "id": "631",
+    "category_id": "14",
+    "title": "We watched a comedy last night.",
+    "description": "Chúng tôi đã xem một bộ phim hài tối qua."
+  },
+  {
+    "id": "632",
+    "category_id": "14",
+    "title": "They enjoy romantic films.",
+    "description": "Họ thích phim tình cảm."
+  },
+  {
+    "id": "633",
+    "category_id": "14",
+    "title": "She goes to the cinema every weekend.",
+    "description": "Cô ấy đi xem phim mỗi cuối tuần."
+  },
+  {
+    "id": "634",
+    "category_id": "14",
+    "title": "I love going to concerts.",
+    "description": "Tôi thích đi xem ca nhạc."
+  },
+  {
+    "id": "635",
+    "category_id": "14",
+    "title": "He watches TV shows at night.",
+    "description": "Anh ấy xem chương trình TV vào ban đêm."
+  },
+  {
+    "id": "636",
+    "category_id": "14",
+    "title": "I love going to concerts.",
+    "description": "Tôi thích đi xem ca nhạc."
+  },
+  {
+    "id": "637",
+    "category_id": "14",
+    "title": "We enjoy playing board games.",
+    "description": "Chúng tôi thích chơi trò chơi bàn."
+  },
+  {
+    "id": "638",
+    "category_id": "14",
+    "title": "We watched a horror movie.",
+    "description": "Chúng tôi đã xem một bộ phim kinh dị."
+  },
+  {
+    "id": "639",
+    "category_id": "14",
+    "title": "He watches TV shows at night.",
+    "description": "Anh ấy xem chương trình TV vào ban đêm."
+  },
+  {
+    "id": "640",
+    "category_id": "14",
+    "title": "She dances as a hobby.",
+    "description": "Cô ấy nhảy múa như một sở thích."
+  },
+  {
+    "id": "641",
+    "category_id": "14",
+    "title": "We watched a horror movie.",
+    "description": "Chúng tôi đã xem một bộ phim kinh dị."
+  },
+  {
+    "id": "642",
+    "category_id": "14",
+    "title": "He watches TV shows at night.",
+    "description": "Anh ấy xem chương trình TV vào ban đêm."
+  },
+  {
+    "id": "643",
+    "category_id": "14",
+    "title": "She dances as a hobby.",
+    "description": "Cô ấy nhảy múa như một sở thích."
+  },
+  {
+    "id": "644",
+    "category_id": "14",
+    "title": "He watches TV shows at night.",
+    "description": "Anh ấy xem chương trình TV vào ban đêm."
+  },
+  {
+    "id": "645",
+    "category_id": "14",
+    "title": "I enjoy going to the theater.",
+    "description": "Tôi thích đi xem kịch."
+  },
+  {
+    "id": "646",
+    "category_id": "14",
+    "title": "We enjoy playing board games.",
+    "description": "Chúng tôi thích chơi trò chơi bàn."
+  },
+  {
+    "id": "647",
+    "category_id": "14",
+    "title": "They went to a music festival.",
+    "description": "Họ đã đi đến một lễ hội âm nhạc."
+  },
+  {
+    "id": "648",
+    "category_id": "14",
+    "title": "I enjoy going to the theater.",
+    "description": "Tôi thích đi xem kịch."
+  },
+  {
+    "id": "649",
+    "category_id": "14",
+    "title": "We watched a comedy last night.",
+    "description": "Chúng tôi đã xem một bộ phim hài tối qua."
+  },
+  {
+    "id": "650",
+    "category_id": "14",
+    "title": "She goes to the cinema every weekend.",
+    "description": "Cô ấy đi xem phim mỗi cuối tuần."
+  },
+  {
+    "id": "651",
+    "category_id": "15",
+    "title": "She is taking medicine.",
+    "description": "Cô ấy đang uống thuốc."
+  },
+  {
+    "id": "652",
+    "category_id": "15",
+    "title": "She drinks a lot of water.",
+    "description": "Cô ấy uống nhiều nước."
+  },
+  {
+    "id": "653",
+    "category_id": "15",
+    "title": "We go for a walk after dinner.",
+    "description": "Chúng tôi đi dạo sau bữa tối."
+  },
+  {
+    "id": "654",
+    "category_id": "15",
+    "title": "He exercises every day.",
+    "description": "Anh ấy tập thể dục mỗi ngày."
+  },
+  {
+    "id": "655",
+    "category_id": "15",
+    "title": "We eat healthy food.",
+    "description": "Chúng tôi ăn thực phẩm lành mạnh."
+  },
+  {
+    "id": "656",
+    "category_id": "15",
+    "title": "She is taking medicine.",
+    "description": "Cô ấy đang uống thuốc."
+  },
+  {
+    "id": "657",
+    "category_id": "15",
+    "title": "We go for a walk after dinner.",
+    "description": "Chúng tôi đi dạo sau bữa tối."
+  },
+  {
+    "id": "658",
+    "category_id": "15",
+    "title": "She is taking medicine.",
+    "description": "Cô ấy đang uống thuốc."
+  },
+  {
+    "id": "659",
+    "category_id": "15",
+    "title": "She takes vitamins every morning.",
+    "description": "Cô ấy uống vitamin mỗi sáng."
+  },
+  {
+    "id": "660",
+    "category_id": "15",
+    "title": "We eat healthy food.",
+    "description": "Chúng tôi ăn thực phẩm lành mạnh."
+  },
+  {
+    "id": "661",
+    "category_id": "15",
+    "title": "He went to the hospital.",
+    "description": "Anh ấy đã đến bệnh viện."
+  },
+  {
+    "id": "662",
+    "category_id": "15",
+    "title": "She has a headache.",
+    "description": "Cô ấy bị đau đầu."
+  },
+  {
+    "id": "663",
+    "category_id": "15",
+    "title": "We go for a walk after dinner.",
+    "description": "Chúng tôi đi dạo sau bữa tối."
+  },
+  {
+    "id": "664",
+    "category_id": "15",
+    "title": "She takes vitamins every morning.",
+    "description": "Cô ấy uống vitamin mỗi sáng."
+  },
+  {
+    "id": "665",
+    "category_id": "15",
+    "title": "I have a stomachache.",
+    "description": "Tôi bị đau bụng."
+  },
+  {
+    "id": "666",
+    "category_id": "15",
+    "title": "I need to rest.",
+    "description": "Tôi cần nghỉ ngơi."
+  },
+  {
+    "id": "667",
+    "category_id": "15",
+    "title": "I feel very healthy.",
+    "description": "Tôi cảm thấy rất khỏe mạnh."
+  },
+  {
+    "id": "668",
+    "category_id": "15",
+    "title": "We eat healthy food.",
+    "description": "Chúng tôi ăn thực phẩm lành mạnh."
+  },
+  {
+    "id": "669",
+    "category_id": "15",
+    "title": "They are feeling tired.",
+    "description": "Họ đang cảm thấy mệt mỏi."
+  },
+  {
+    "id": "670",
+    "category_id": "15",
+    "title": "She is taking medicine.",
+    "description": "Cô ấy đang uống thuốc."
+  },
+  {
+    "id": "671",
+    "category_id": "15",
+    "title": "He is recovering from the flu.",
+    "description": "Anh ấy đang hồi phục sau cảm cúm."
+  },
+  {
+    "id": "672",
+    "category_id": "15",
+    "title": "She takes vitamins every morning.",
+    "description": "Cô ấy uống vitamin mỗi sáng."
+  },
+  {
+    "id": "673",
+    "category_id": "15",
+    "title": "She has a headache.",
+    "description": "Cô ấy bị đau đầu."
+  },
+  {
+    "id": "674",
+    "category_id": "15",
+    "title": "We go for a walk after dinner.",
+    "description": "Chúng tôi đi dạo sau bữa tối."
+  },
+  {
+    "id": "675",
+    "category_id": "15",
+    "title": "I feel very healthy.",
+    "description": "Tôi cảm thấy rất khỏe mạnh."
+  },
+  {
+    "id": "676",
+    "category_id": "15",
+    "title": "We eat healthy food.",
+    "description": "Chúng tôi ăn thực phẩm lành mạnh."
+  },
+  {
+    "id": "677",
+    "category_id": "15",
+    "title": "I need to rest.",
+    "description": "Tôi cần nghỉ ngơi."
+  },
+  {
+    "id": "678",
+    "category_id": "15",
+    "title": "I need to rest.",
+    "description": "Tôi cần nghỉ ngơi."
+  },
+  {
+    "id": "679",
+    "category_id": "15",
+    "title": "She has a headache.",
+    "description": "Cô ấy bị đau đầu."
+  },
+  {
+    "id": "680",
+    "category_id": "15",
+    "title": "She has a headache.",
+    "description": "Cô ấy bị đau đầu."
+  },
+  {
+    "id": "681",
+    "category_id": "15",
+    "title": "She takes vitamins every morning.",
+    "description": "Cô ấy uống vitamin mỗi sáng."
+  },
+  {
+    "id": "682",
+    "category_id": "15",
+    "title": "He is recovering from the flu.",
+    "description": "Anh ấy đang hồi phục sau cảm cúm."
+  },
+  {
+    "id": "683",
+    "category_id": "15",
+    "title": "I feel very healthy.",
+    "description": "Tôi cảm thấy rất khỏe mạnh."
+  },
+  {
+    "id": "684",
+    "category_id": "15",
+    "title": "I have a stomachache.",
+    "description": "Tôi bị đau bụng."
+  },
+  {
+    "id": "685",
+    "category_id": "15",
+    "title": "I need to rest.",
+    "description": "Tôi cần nghỉ ngơi."
+  },
+  {
+    "id": "686",
+    "category_id": "15",
+    "title": "He exercises every day.",
+    "description": "Anh ấy tập thể dục mỗi ngày."
+  },
+  {
+    "id": "687",
+    "category_id": "15",
+    "title": "She drinks a lot of water.",
+    "description": "Cô ấy uống nhiều nước."
+  },
+  {
+    "id": "688",
+    "category_id": "15",
+    "title": "He went to the hospital.",
+    "description": "Anh ấy đã đến bệnh viện."
+  },
+  {
+    "id": "689",
+    "category_id": "15",
+    "title": "He went to the hospital.",
+    "description": "Anh ấy đã đến bệnh viện."
+  },
+  {
+    "id": "690",
+    "category_id": "15",
+    "title": "They are feeling tired.",
+    "description": "Họ đang cảm thấy mệt mỏi."
+  },
+  {
+    "id": "691",
+    "category_id": "15",
+    "title": "She takes vitamins every morning.",
+    "description": "Cô ấy uống vitamin mỗi sáng."
+  },
+  {
+    "id": "692",
+    "category_id": "15",
+    "title": "He exercises every day.",
+    "description": "Anh ấy tập thể dục mỗi ngày."
+  },
+  {
+    "id": "693",
+    "category_id": "15",
+    "title": "We go for a walk after dinner.",
+    "description": "Chúng tôi đi dạo sau bữa tối."
+  },
+  {
+    "id": "694",
+    "category_id": "15",
+    "title": "She drinks a lot of water.",
+    "description": "Cô ấy uống nhiều nước."
+  },
+  {
+    "id": "695",
+    "category_id": "15",
+    "title": "I feel very healthy.",
+    "description": "Tôi cảm thấy rất khỏe mạnh."
+  },
+  {
+    "id": "696",
+    "category_id": "15",
+    "title": "We eat healthy food.",
+    "description": "Chúng tôi ăn thực phẩm lành mạnh."
+  },
+  {
+    "id": "697",
+    "category_id": "15",
+    "title": "He went to the hospital.",
+    "description": "Anh ấy đã đến bệnh viện."
+  },
+  {
+    "id": "698",
+    "category_id": "15",
+    "title": "We eat healthy food.",
+    "description": "Chúng tôi ăn thực phẩm lành mạnh."
+  },
+  {
+    "id": "699",
+    "category_id": "15",
+    "title": "We go for a walk after dinner.",
+    "description": "Chúng tôi đi dạo sau bữa tối."
+  },
+  {
+    "id": "700",
+    "category_id": "15",
+    "title": "She takes vitamins every morning.",
+    "description": "Cô ấy uống vitamin mỗi sáng."
+  },
+  {
+    "id": "701",
+    "category_id": "16",
+    "title": "They keep birds as pets.",
+    "description": "Họ nuôi chim làm thú cưng."
+  },
+  {
+    "id": "702",
+    "category_id": "16",
+    "title": "She brushes her dog's fur.",
+    "description": "Cô ấy chải lông cho chó."
+  },
+  {
+    "id": "703",
+    "category_id": "16",
+    "title": "He adopted a puppy.",
+    "description": "Anh ấy đã nhận nuôi một chú chó con."
+  },
+  {
+    "id": "704",
+    "category_id": "16",
+    "title": "I feed my pets twice a day.",
+    "description": "Tôi cho thú cưng ăn hai lần mỗi ngày."
+  },
+  {
+    "id": "705",
+    "category_id": "16",
+    "title": "I love animals.",
+    "description": "Tôi yêu động vật."
+  },
+  {
+    "id": "706",
+    "category_id": "16",
+    "title": "The kitten is playing with a ball.",
+    "description": "Con mèo con đang chơi với quả bóng."
+  },
+  {
+    "id": "707",
+    "category_id": "16",
+    "title": "I love animals.",
+    "description": "Tôi yêu động vật."
+  },
+  {
+    "id": "708",
+    "category_id": "16",
+    "title": "The kitten is playing with a ball.",
+    "description": "Con mèo con đang chơi với quả bóng."
+  },
+  {
+    "id": "709",
+    "category_id": "16",
+    "title": "They keep birds as pets.",
+    "description": "Họ nuôi chim làm thú cưng."
+  },
+  {
+    "id": "710",
+    "category_id": "16",
+    "title": "We visited a zoo last weekend.",
+    "description": "Chúng tôi đã đi thăm sở thú cuối tuần trước."
+  },
+  {
+    "id": "711",
+    "category_id": "16",
+    "title": "I feed my pets twice a day.",
+    "description": "Tôi cho thú cưng ăn hai lần mỗi ngày."
+  },
+  {
+    "id": "712",
+    "category_id": "16",
+    "title": "She is taking her dog to the vet.",
+    "description": "Cô ấy đang đưa chó đến bác sĩ thú y."
+  },
+  {
+    "id": "713",
+    "category_id": "16",
+    "title": "She feeds her cat every morning.",
+    "description": "Cô ấy cho mèo ăn mỗi sáng."
+  },
+  {
+    "id": "714",
+    "category_id": "16",
+    "title": "He adopted a puppy.",
+    "description": "Anh ấy đã nhận nuôi một chú chó con."
+  },
+  {
+    "id": "715",
+    "category_id": "16",
+    "title": "The kitten is playing with a ball.",
+    "description": "Con mèo con đang chơi với quả bóng."
+  },
+  {
+    "id": "716",
+    "category_id": "16",
+    "title": "My fish swim in the tank.",
+    "description": "Cá của tôi bơi trong bể."
+  },
+  {
+    "id": "717",
+    "category_id": "16",
+    "title": "They have a turtle in the garden.",
+    "description": "Họ có một con rùa trong vườn."
+  },
+  {
+    "id": "718",
+    "category_id": "16",
+    "title": "I have a dog.",
+    "description": "Tôi có một con chó."
+  },
+  {
+    "id": "719",
+    "category_id": "16",
+    "title": "He adopted a puppy.",
+    "description": "Anh ấy đã nhận nuôi một chú chó con."
+  },
+  {
+    "id": "720",
+    "category_id": "16",
+    "title": "I feed my pets twice a day.",
+    "description": "Tôi cho thú cưng ăn hai lần mỗi ngày."
+  },
+  {
+    "id": "721",
+    "category_id": "16",
+    "title": "I feed my pets twice a day.",
+    "description": "Tôi cho thú cưng ăn hai lần mỗi ngày."
+  },
+  {
+    "id": "722",
+    "category_id": "16",
+    "title": "The kitten is playing with a ball.",
+    "description": "Con mèo con đang chơi với quả bóng."
+  },
+  {
+    "id": "723",
+    "category_id": "16",
+    "title": "The parrot can talk.",
+    "description": "Con vẹt có thể nói."
+  },
+  {
+    "id": "724",
+    "category_id": "16",
+    "title": "He adopted a puppy.",
+    "description": "Anh ấy đã nhận nuôi một chú chó con."
+  },
+  {
+    "id": "725",
+    "category_id": "16",
+    "title": "My fish swim in the tank.",
+    "description": "Cá của tôi bơi trong bể."
+  },
+  {
+    "id": "726",
+    "category_id": "16",
+    "title": "I love animals.",
+    "description": "Tôi yêu động vật."
+  },
+  {
+    "id": "727",
+    "category_id": "16",
+    "title": "She feeds her cat every morning.",
+    "description": "Cô ấy cho mèo ăn mỗi sáng."
+  },
+  {
+    "id": "728",
+    "category_id": "16",
+    "title": "She is taking her dog to the vet.",
+    "description": "Cô ấy đang đưa chó đến bác sĩ thú y."
+  },
+  {
+    "id": "729",
+    "category_id": "16",
+    "title": "She feeds her cat every morning.",
+    "description": "Cô ấy cho mèo ăn mỗi sáng."
+  },
+  {
+    "id": "730",
+    "category_id": "16",
+    "title": "We visited a zoo last weekend.",
+    "description": "Chúng tôi đã đi thăm sở thú cuối tuần trước."
+  },
+  {
+    "id": "731",
+    "category_id": "16",
+    "title": "He adopted a puppy.",
+    "description": "Anh ấy đã nhận nuôi một chú chó con."
+  },
+  {
+    "id": "732",
+    "category_id": "16",
+    "title": "My fish swim in the tank.",
+    "description": "Cá của tôi bơi trong bể."
+  },
+  {
+    "id": "733",
+    "category_id": "16",
+    "title": "We visited a zoo last weekend.",
+    "description": "Chúng tôi đã đi thăm sở thú cuối tuần trước."
+  },
+  {
+    "id": "734",
+    "category_id": "16",
+    "title": "I feed my pets twice a day.",
+    "description": "Tôi cho thú cưng ăn hai lần mỗi ngày."
+  },
+  {
+    "id": "735",
+    "category_id": "16",
+    "title": "They keep birds as pets.",
+    "description": "Họ nuôi chim làm thú cưng."
+  },
+  {
+    "id": "736",
+    "category_id": "16",
+    "title": "The parrot can talk.",
+    "description": "Con vẹt có thể nói."
+  },
+  {
+    "id": "737",
+    "category_id": "16",
+    "title": "They have a turtle in the garden.",
+    "description": "Họ có một con rùa trong vườn."
+  },
+  {
+    "id": "738",
+    "category_id": "16",
+    "title": "The cat is sleeping on the sofa.",
+    "description": "Con mèo đang ngủ trên ghế sofa."
+  },
+  {
+    "id": "739",
+    "category_id": "16",
+    "title": "He plays with his rabbit.",
+    "description": "Anh ấy chơi với con thỏ của mình."
+  },
+  {
+    "id": "740",
+    "category_id": "16",
+    "title": "We visited a zoo last weekend.",
+    "description": "Chúng tôi đã đi thăm sở thú cuối tuần trước."
+  },
+  {
+    "id": "741",
+    "category_id": "16",
+    "title": "We visited a zoo last weekend.",
+    "description": "Chúng tôi đã đi thăm sở thú cuối tuần trước."
+  },
+  {
+    "id": "742",
+    "category_id": "16",
+    "title": "She is taking her dog to the vet.",
+    "description": "Cô ấy đang đưa chó đến bác sĩ thú y."
+  },
+  {
+    "id": "743",
+    "category_id": "16",
+    "title": "They have a turtle in the garden.",
+    "description": "Họ có một con rùa trong vườn."
+  },
+  {
+    "id": "744",
+    "category_id": "16",
+    "title": "She is taking her dog to the vet.",
+    "description": "Cô ấy đang đưa chó đến bác sĩ thú y."
+  },
+  {
+    "id": "745",
+    "category_id": "16",
+    "title": "He adopted a puppy.",
+    "description": "Anh ấy đã nhận nuôi một chú chó con."
+  },
+  {
+    "id": "746",
+    "category_id": "16",
+    "title": "She is taking her dog to the vet.",
+    "description": "Cô ấy đang đưa chó đến bác sĩ thú y."
+  },
+  {
+    "id": "747",
+    "category_id": "16",
+    "title": "He adopted a puppy.",
+    "description": "Anh ấy đã nhận nuôi một chú chó con."
+  },
+  {
+    "id": "748",
+    "category_id": "16",
+    "title": "The kitten is playing with a ball.",
+    "description": "Con mèo con đang chơi với quả bóng."
+  },
+  {
+    "id": "749",
+    "category_id": "16",
+    "title": "I love animals.",
+    "description": "Tôi yêu động vật."
+  },
+  {
+    "id": "750",
+    "category_id": "16",
+    "title": "He plays with his rabbit.",
+    "description": "Anh ấy chơi với con thỏ của mình."
+  },
+  {
+    "id": "751",
+    "category_id": "17",
+    "title": "They light fireworks on New Year's Eve.",
+    "description": "Họ bắn pháo hoa vào đêm Giao thừa."
+  },
+  {
+    "id": "752",
+    "category_id": "17",
+    "title": "We visit family during Lunar New Year.",
+    "description": "Chúng tôi thăm gia đình vào Tết Nguyên Đán."
+  },
+  {
+    "id": "753",
+    "category_id": "17",
+    "title": "She wears a costume for the festival.",
+    "description": "Cô ấy mặc trang phục lễ hội."
+  },
+  {
+    "id": "754",
+    "category_id": "17",
+    "title": "I watch parades on national holidays.",
+    "description": "Tôi xem diễu hành vào các ngày lễ quốc gia."
+  },
+  {
+    "id": "755",
+    "category_id": "17",
+    "title": "We celebrate New Year's Day.",
+    "description": "Chúng tôi chào đón ngày đầu năm mới."
+  },
+  {
+    "id": "756",
+    "category_id": "17",
+    "title": "We visit family during Lunar New Year.",
+    "description": "Chúng tôi thăm gia đình vào Tết Nguyên Đán."
+  },
+  {
+    "id": "757",
+    "category_id": "17",
+    "title": "She baked a cake for the celebration.",
+    "description": "Cô ấy nướng bánh cho buổi lễ."
+  },
+  {
+    "id": "758",
+    "category_id": "17",
+    "title": "We enjoy traditional food at Tet.",
+    "description": "Chúng tôi thưởng thức món ăn truyền thống vào dịp Tết."
+  },
+  {
+    "id": "759",
+    "category_id": "17",
+    "title": "I eat mooncakes during Mid-Autumn Festival.",
+    "description": "Tôi ăn bánh trung thu vào Tết Trung Thu."
+  },
+  {
+    "id": "760",
+    "category_id": "17",
+    "title": "We enjoy traditional food at Tet.",
+    "description": "Chúng tôi thưởng thức món ăn truyền thống vào dịp Tết."
+  },
+  {
+    "id": "761",
+    "category_id": "17",
+    "title": "They sing and dance at the festival.",
+    "description": "Họ hát và nhảy múa tại lễ hội."
+  },
+  {
+    "id": "762",
+    "category_id": "17",
+    "title": "He gave flowers on Valentine's Day.",
+    "description": "Anh ấy tặng hoa vào ngày Valentine."
+  },
+  {
+    "id": "763",
+    "category_id": "17",
+    "title": "They sing and dance at the festival.",
+    "description": "Họ hát và nhảy múa tại lễ hội."
+  },
+  {
+    "id": "764",
+    "category_id": "17",
+    "title": "I eat mooncakes during Mid-Autumn Festival.",
+    "description": "Tôi ăn bánh trung thu vào Tết Trung Thu."
+  },
+  {
+    "id": "765",
+    "category_id": "17",
+    "title": "I watch parades on national holidays.",
+    "description": "Tôi xem diễu hành vào các ngày lễ quốc gia."
+  },
+  {
+    "id": "766",
+    "category_id": "17",
+    "title": "We celebrate New Year's Day.",
+    "description": "Chúng tôi chào đón ngày đầu năm mới."
+  },
+  {
+    "id": "767",
+    "category_id": "17",
+    "title": "We visit family during Lunar New Year.",
+    "description": "Chúng tôi thăm gia đình vào Tết Nguyên Đán."
+  },
+  {
+    "id": "768",
+    "category_id": "17",
+    "title": "We celebrate New Year's Day.",
+    "description": "Chúng tôi chào đón ngày đầu năm mới."
+  },
+  {
+    "id": "769",
+    "category_id": "17",
+    "title": "He gave flowers on Valentine's Day.",
+    "description": "Anh ấy tặng hoa vào ngày Valentine."
+  },
+  {
+    "id": "770",
+    "category_id": "17",
+    "title": "We enjoy traditional food at Tet.",
+    "description": "Chúng tôi thưởng thức món ăn truyền thống vào dịp Tết."
+  },
+  {
+    "id": "771",
+    "category_id": "17",
+    "title": "They sing and dance at the festival.",
+    "description": "Họ hát và nhảy múa tại lễ hội."
+  },
+  {
+    "id": "772",
+    "category_id": "17",
+    "title": "I eat mooncakes during Mid-Autumn Festival.",
+    "description": "Tôi ăn bánh trung thu vào Tết Trung Thu."
+  },
+  {
+    "id": "773",
+    "category_id": "17",
+    "title": "We enjoy music at the spring festival.",
+    "description": "Chúng tôi thưởng thức âm nhạc tại lễ hội mùa xuân."
+  },
+  {
+    "id": "774",
+    "category_id": "17",
+    "title": "They light fireworks on New Year's Eve.",
+    "description": "Họ bắn pháo hoa vào đêm Giao thừa."
+  },
+  {
+    "id": "775",
+    "category_id": "17",
+    "title": "She wears a costume for the festival.",
+    "description": "Cô ấy mặc trang phục lễ hội."
+  },
+  {
+    "id": "776",
+    "category_id": "17",
+    "title": "We visit family during Lunar New Year.",
+    "description": "Chúng tôi thăm gia đình vào Tết Nguyên Đán."
+  },
+  {
+    "id": "777",
+    "category_id": "17",
+    "title": "I watch parades on national holidays.",
+    "description": "Tôi xem diễu hành vào các ngày lễ quốc gia."
+  },
+  {
+    "id": "778",
+    "category_id": "17",
+    "title": "They sing and dance at the festival.",
+    "description": "Họ hát và nhảy múa tại lễ hội."
+  },
+  {
+    "id": "779",
+    "category_id": "17",
+    "title": "He sent greeting cards for the holiday.",
+    "description": "Anh ấy gửi thiệp chúc mừng cho ngày lễ."
+  },
+  {
+    "id": "780",
+    "category_id": "17",
+    "title": "We enjoy music at the spring festival.",
+    "description": "Chúng tôi thưởng thức âm nhạc tại lễ hội mùa xuân."
+  },
+  {
+    "id": "781",
+    "category_id": "17",
+    "title": "I watch parades on national holidays.",
+    "description": "Tôi xem diễu hành vào các ngày lễ quốc gia."
+  },
+  {
+    "id": "782",
+    "category_id": "17",
+    "title": "We visit family during Lunar New Year.",
+    "description": "Chúng tôi thăm gia đình vào Tết Nguyên Đán."
+  },
+  {
+    "id": "783",
+    "category_id": "17",
+    "title": "We visit family during Lunar New Year.",
+    "description": "Chúng tôi thăm gia đình vào Tết Nguyên Đán."
+  },
+  {
+    "id": "784",
+    "category_id": "17",
+    "title": "We enjoy traditional food at Tet.",
+    "description": "Chúng tôi thưởng thức món ăn truyền thống vào dịp Tết."
+  },
+  {
+    "id": "785",
+    "category_id": "17",
+    "title": "We enjoy music at the spring festival.",
+    "description": "Chúng tôi thưởng thức âm nhạc tại lễ hội mùa xuân."
+  },
+  {
+    "id": "786",
+    "category_id": "17",
+    "title": "I eat mooncakes during Mid-Autumn Festival.",
+    "description": "Tôi ăn bánh trung thu vào Tết Trung Thu."
+  },
+  {
+    "id": "787",
+    "category_id": "17",
+    "title": "We visit family during Lunar New Year.",
+    "description": "Chúng tôi thăm gia đình vào Tết Nguyên Đán."
+  },
+  {
+    "id": "788",
+    "category_id": "17",
+    "title": "He sent greeting cards for the holiday.",
+    "description": "Anh ấy gửi thiệp chúc mừng cho ngày lễ."
+  },
+  {
+    "id": "789",
+    "category_id": "17",
+    "title": "She wears a costume for the festival.",
+    "description": "Cô ấy mặc trang phục lễ hội."
+  },
+  {
+    "id": "790",
+    "category_id": "17",
+    "title": "I eat mooncakes during Mid-Autumn Festival.",
+    "description": "Tôi ăn bánh trung thu vào Tết Trung Thu."
+  },
+  {
+    "id": "791",
+    "category_id": "17",
+    "title": "They light fireworks on New Year's Eve.",
+    "description": "Họ bắn pháo hoa vào đêm Giao thừa."
+  },
+  {
+    "id": "792",
+    "category_id": "17",
+    "title": "She baked a cake for the celebration.",
+    "description": "Cô ấy nướng bánh cho buổi lễ."
+  },
+  {
+    "id": "793",
+    "category_id": "17",
+    "title": "He gave flowers on Valentine's Day.",
+    "description": "Anh ấy tặng hoa vào ngày Valentine."
+  },
+  {
+    "id": "794",
+    "category_id": "17",
+    "title": "He sent greeting cards for the holiday.",
+    "description": "Anh ấy gửi thiệp chúc mừng cho ngày lễ."
+  },
+  {
+    "id": "795",
+    "category_id": "17",
+    "title": "They sing and dance at the festival.",
+    "description": "Họ hát và nhảy múa tại lễ hội."
+  },
+  {
+    "id": "796",
+    "category_id": "17",
+    "title": "They had a big party for Independence Day.",
+    "description": "Họ tổ chức tiệc lớn cho ngày Quốc Khánh."
+  },
+  {
+    "id": "797",
+    "category_id": "17",
+    "title": "They light fireworks on New Year's Eve.",
+    "description": "Họ bắn pháo hoa vào đêm Giao thừa."
+  },
+  {
+    "id": "798",
+    "category_id": "17",
+    "title": "She decorates the house for Halloween.",
+    "description": "Cô ấy trang trí nhà cho lễ Halloween."
+  },
+  {
+    "id": "799",
+    "category_id": "17",
+    "title": "I eat mooncakes during Mid-Autumn Festival.",
+    "description": "Tôi ăn bánh trung thu vào Tết Trung Thu."
+  },
+  {
+    "id": "800",
+    "category_id": "17",
+    "title": "They had a big party for Independence Day.",
+    "description": "Họ tổ chức tiệc lớn cho ngày Quốc Khánh."
+  },
+  {
+    "id": "801",
+    "category_id": "18",
+    "title": "I like the sound of rain.",
+    "description": "Tôi thích tiếng mưa."
+  },
+  {
+    "id": "802",
+    "category_id": "18",
+    "title": "We should protect the environment.",
+    "description": "Chúng ta nên bảo vệ môi trường."
+  },
+  {
+    "id": "803",
+    "category_id": "18",
+    "title": "She plants trees in her garden.",
+    "description": "Cô ấy trồng cây trong vườn."
+  },
+  {
+    "id": "804",
+    "category_id": "18",
+    "title": "He enjoys camping in the mountains.",
+    "description": "Anh ấy thích cắm trại trên núi."
+  },
+  {
+    "id": "805",
+    "category_id": "18",
+    "title": "The river is very clean.",
+    "description": "Dòng sông rất sạch."
+  },
+  {
+    "id": "806",
+    "category_id": "18",
+    "title": "She enjoys the sunset.",
+    "description": "Cô ấy thích ngắm hoàng hôn."
+  },
+  {
+    "id": "807",
+    "category_id": "18",
+    "title": "We grow vegetables in our backyard.",
+    "description": "Chúng tôi trồng rau trong sân sau."
+  },
+  {
+    "id": "808",
+    "category_id": "18",
+    "title": "We grow vegetables in our backyard.",
+    "description": "Chúng tôi trồng rau trong sân sau."
+  },
+  {
+    "id": "809",
+    "category_id": "18",
+    "title": "There are many flowers in the field.",
+    "description": "Có nhiều hoa trên cánh đồng."
+  },
+  {
+    "id": "810",
+    "category_id": "18",
+    "title": "They clean the beach every weekend.",
+    "description": "Họ dọn dẹp bãi biển mỗi cuối tuần."
+  },
+  {
+    "id": "811",
+    "category_id": "18",
+    "title": "She plants trees in her garden.",
+    "description": "Cô ấy trồng cây trong vườn."
+  },
+  {
+    "id": "812",
+    "category_id": "18",
+    "title": "She watches birds in the park.",
+    "description": "Cô ấy quan sát chim trong công viên."
+  },
+  {
+    "id": "813",
+    "category_id": "18",
+    "title": "The river is very clean.",
+    "description": "Dòng sông rất sạch."
+  },
+  {
+    "id": "814",
+    "category_id": "18",
+    "title": "The river is very clean.",
+    "description": "Dòng sông rất sạch."
+  },
+  {
+    "id": "815",
+    "category_id": "18",
+    "title": "She watches birds in the park.",
+    "description": "Cô ấy quan sát chim trong công viên."
+  },
+  {
+    "id": "816",
+    "category_id": "18",
+    "title": "He enjoys camping in the mountains.",
+    "description": "Anh ấy thích cắm trại trên núi."
+  },
+  {
+    "id": "817",
+    "category_id": "18",
+    "title": "He picks up trash in the park.",
+    "description": "Anh ấy nhặt rác trong công viên."
+  },
+  {
+    "id": "818",
+    "category_id": "18",
+    "title": "She plants trees in her garden.",
+    "description": "Cô ấy trồng cây trong vườn."
+  },
+  {
+    "id": "819",
+    "category_id": "18",
+    "title": "She watches birds in the park.",
+    "description": "Cô ấy quan sát chim trong công viên."
+  },
+  {
+    "id": "820",
+    "category_id": "18",
+    "title": "They hike through the jungle.",
+    "description": "Họ đi bộ xuyên rừng."
+  },
+  {
+    "id": "821",
+    "category_id": "18",
+    "title": "I love walking in the forest.",
+    "description": "Tôi thích đi dạo trong rừng."
+  },
+  {
+    "id": "822",
+    "category_id": "18",
+    "title": "He picks up trash in the park.",
+    "description": "Anh ấy nhặt rác trong công viên."
+  },
+  {
+    "id": "823",
+    "category_id": "18",
+    "title": "He picks up trash in the park.",
+    "description": "Anh ấy nhặt rác trong công viên."
+  },
+  {
+    "id": "824",
+    "category_id": "18",
+    "title": "The river is very clean.",
+    "description": "Dòng sông rất sạch."
+  },
+  {
+    "id": "825",
+    "category_id": "18",
+    "title": "She watches birds in the park.",
+    "description": "Cô ấy quan sát chim trong công viên."
+  },
+  {
+    "id": "826",
+    "category_id": "18",
+    "title": "They hike through the jungle.",
+    "description": "Họ đi bộ xuyên rừng."
+  },
+  {
+    "id": "827",
+    "category_id": "18",
+    "title": "They recycle plastic bottles.",
+    "description": "Họ tái chế chai nhựa."
+  },
+  {
+    "id": "828",
+    "category_id": "18",
+    "title": "We grow vegetables in our backyard.",
+    "description": "Chúng tôi trồng rau trong sân sau."
+  },
+  {
+    "id": "829",
+    "category_id": "18",
+    "title": "I like the sound of rain.",
+    "description": "Tôi thích tiếng mưa."
+  },
+  {
+    "id": "830",
+    "category_id": "18",
+    "title": "We grow vegetables in our backyard.",
+    "description": "Chúng tôi trồng rau trong sân sau."
+  },
+  {
+    "id": "831",
+    "category_id": "18",
+    "title": "We must reduce air pollution.",
+    "description": "Chúng ta phải giảm ô nhiễm không khí."
+  },
+  {
+    "id": "832",
+    "category_id": "18",
+    "title": "They clean the beach every weekend.",
+    "description": "Họ dọn dẹp bãi biển mỗi cuối tuần."
+  },
+  {
+    "id": "833",
+    "category_id": "18",
+    "title": "They hike through the jungle.",
+    "description": "Họ đi bộ xuyên rừng."
+  },
+  {
+    "id": "834",
+    "category_id": "18",
+    "title": "There are many flowers in the field.",
+    "description": "Có nhiều hoa trên cánh đồng."
+  },
+  {
+    "id": "835",
+    "category_id": "18",
+    "title": "He enjoys camping in the mountains.",
+    "description": "Anh ấy thích cắm trại trên núi."
+  },
+  {
+    "id": "836",
+    "category_id": "18",
+    "title": "We must reduce air pollution.",
+    "description": "Chúng ta phải giảm ô nhiễm không khí."
+  },
+  {
+    "id": "837",
+    "category_id": "18",
+    "title": "They hike through the jungle.",
+    "description": "Họ đi bộ xuyên rừng."
+  },
+  {
+    "id": "838",
+    "category_id": "18",
+    "title": "She enjoys the sunset.",
+    "description": "Cô ấy thích ngắm hoàng hôn."
+  },
+  {
+    "id": "839",
+    "category_id": "18",
+    "title": "There are many flowers in the field.",
+    "description": "Có nhiều hoa trên cánh đồng."
+  },
+  {
+    "id": "840",
+    "category_id": "18",
+    "title": "We must reduce air pollution.",
+    "description": "Chúng ta phải giảm ô nhiễm không khí."
+  },
+  {
+    "id": "841",
+    "category_id": "18",
+    "title": "I like the sound of rain.",
+    "description": "Tôi thích tiếng mưa."
+  },
+  {
+    "id": "842",
+    "category_id": "18",
+    "title": "She plants trees in her garden.",
+    "description": "Cô ấy trồng cây trong vườn."
+  },
+  {
+    "id": "843",
+    "category_id": "18",
+    "title": "She watches birds in the park.",
+    "description": "Cô ấy quan sát chim trong công viên."
+  },
+  {
+    "id": "844",
+    "category_id": "18",
+    "title": "They recycle plastic bottles.",
+    "description": "Họ tái chế chai nhựa."
+  },
+  {
+    "id": "845",
+    "category_id": "18",
+    "title": "She watches birds in the park.",
+    "description": "Cô ấy quan sát chim trong công viên."
+  },
+  {
+    "id": "846",
+    "category_id": "18",
+    "title": "I like the sound of rain.",
+    "description": "Tôi thích tiếng mưa."
+  },
+  {
+    "id": "847",
+    "category_id": "18",
+    "title": "He picks up trash in the park.",
+    "description": "Anh ấy nhặt rác trong công viên."
+  },
+  {
+    "id": "848",
+    "category_id": "18",
+    "title": "I like the sound of rain.",
+    "description": "Tôi thích tiếng mưa."
+  },
+  {
+    "id": "849",
+    "category_id": "18",
+    "title": "They recycle plastic bottles.",
+    "description": "Họ tái chế chai nhựa."
+  },
+  {
+    "id": "850",
+    "category_id": "18",
+    "title": "They clean the beach every weekend.",
+    "description": "Họ dọn dẹp bãi biển mỗi cuối tuần."
+  },
+  {
+    "id": "901",
+    "category_id": "20",
+    "title": "We are making plans for next summer.",
+    "description": "Chúng tôi đang lên kế hoạch cho mùa hè tới."
+  },
+  {
+    "id": "902",
+    "category_id": "20",
+    "title": "They hope to get married next year.",
+    "description": "Họ hy vọng sẽ kết hôn vào năm tới."
+  },
+  {
+    "id": "903",
+    "category_id": "20",
+    "title": "I want to learn new skills.",
+    "description": "Tôi muốn học kỹ năng mới."
+  },
+  {
+    "id": "904",
+    "category_id": "20",
+    "title": "They hope to get married next year.",
+    "description": "Họ hy vọng sẽ kết hôn vào năm tới."
+  },
+  {
+    "id": "905",
+    "category_id": "20",
+    "title": "She hopes to travel the world.",
+    "description": "Cô ấy hy vọng sẽ đi du lịch vòng quanh thế giới."
+  },
+  {
+    "id": "906",
+    "category_id": "20",
+    "title": "They dream of buying a house.",
+    "description": "Họ mơ ước mua một ngôi nhà."
+  },
+  {
+    "id": "907",
+    "category_id": "20",
+    "title": "He is thinking about his future.",
+    "description": "Anh ấy đang suy nghĩ về tương lai."
+  },
+  {
+    "id": "908",
+    "category_id": "20",
+    "title": "She dreams of becoming a singer.",
+    "description": "Cô ấy mơ ước trở thành ca sĩ."
+  },
+  {
+    "id": "909",
+    "category_id": "20",
+    "title": "She hopes to travel the world.",
+    "description": "Cô ấy hy vọng sẽ đi du lịch vòng quanh thế giới."
+  },
+  {
+    "id": "910",
+    "category_id": "20",
+    "title": "She dreams of becoming a singer.",
+    "description": "Cô ấy mơ ước trở thành ca sĩ."
+  },
+  {
+    "id": "911",
+    "category_id": "20",
+    "title": "She dreams of becoming a singer.",
+    "description": "Cô ấy mơ ước trở thành ca sĩ."
+  },
+  {
+    "id": "912",
+    "category_id": "20",
+    "title": "We are making plans for next summer.",
+    "description": "Chúng tôi đang lên kế hoạch cho mùa hè tới."
+  },
+  {
+    "id": "913",
+    "category_id": "20",
+    "title": "I want to learn new skills.",
+    "description": "Tôi muốn học kỹ năng mới."
+  },
+  {
+    "id": "914",
+    "category_id": "20",
+    "title": "We are going to start a business.",
+    "description": "Chúng tôi sẽ bắt đầu một công việc kinh doanh."
+  },
+  {
+    "id": "915",
+    "category_id": "20",
+    "title": "She hopes to travel the world.",
+    "description": "Cô ấy hy vọng sẽ đi du lịch vòng quanh thế giới."
+  },
+  {
+    "id": "916",
+    "category_id": "20",
+    "title": "She is preparing for university.",
+    "description": "Cô ấy đang chuẩn bị vào đại học."
+  },
+  {
+    "id": "917",
+    "category_id": "20",
+    "title": "They want to live in another country.",
+    "description": "Họ muốn sống ở một đất nước khác."
+  },
+  {
+    "id": "918",
+    "category_id": "20",
+    "title": "I want to learn new skills.",
+    "description": "Tôi muốn học kỹ năng mới."
+  },
+  {
+    "id": "919",
+    "category_id": "20",
+    "title": "We are going to start a business.",
+    "description": "Chúng tôi sẽ bắt đầu một công việc kinh doanh."
+  },
+  {
+    "id": "920",
+    "category_id": "20",
+    "title": "I plan to write a book.",
+    "description": "Tôi dự định viết một cuốn sách."
+  },
+  {
+    "id": "921",
+    "category_id": "20",
+    "title": "He is thinking about his future.",
+    "description": "Anh ấy đang suy nghĩ về tương lai."
+  },
+  {
+    "id": "922",
+    "category_id": "20",
+    "title": "We are making plans for next summer.",
+    "description": "Chúng tôi đang lên kế hoạch cho mùa hè tới."
+  },
+  {
+    "id": "923",
+    "category_id": "20",
+    "title": "They hope to get married next year.",
+    "description": "Họ hy vọng sẽ kết hôn vào năm tới."
+  },
+  {
+    "id": "924",
+    "category_id": "20",
+    "title": "We are saving money for the future.",
+    "description": "Chúng tôi đang tiết kiệm tiền cho tương lai."
+  },
+  {
+    "id": "925",
+    "category_id": "20",
+    "title": "They hope to get married next year.",
+    "description": "Họ hy vọng sẽ kết hôn vào năm tới."
+  },
+  {
+    "id": "926",
+    "category_id": "20",
+    "title": "I plan to write a book.",
+    "description": "Tôi dự định viết một cuốn sách."
+  },
+  {
+    "id": "927",
+    "category_id": "20",
+    "title": "They hope to get married next year.",
+    "description": "Họ hy vọng sẽ kết hôn vào năm tới."
+  },
+  {
+    "id": "928",
+    "category_id": "20",
+    "title": "We are going to start a business.",
+    "description": "Chúng tôi sẽ bắt đầu một công việc kinh doanh."
+  },
+  {
+    "id": "929",
+    "category_id": "20",
+    "title": "We are saving money for the future.",
+    "description": "Chúng tôi đang tiết kiệm tiền cho tương lai."
+  },
+  {
+    "id": "930",
+    "category_id": "20",
+    "title": "We are saving money for the future.",
+    "description": "Chúng tôi đang tiết kiệm tiền cho tương lai."
+  },
+  {
+    "id": "931",
+    "category_id": "20",
+    "title": "She is preparing for university.",
+    "description": "Cô ấy đang chuẩn bị vào đại học."
+  },
+  {
+    "id": "932",
+    "category_id": "20",
+    "title": "I plan to write a book.",
+    "description": "Tôi dự định viết một cuốn sách."
+  },
+  {
+    "id": "933",
+    "category_id": "20",
+    "title": "I want to learn new skills.",
+    "description": "Tôi muốn học kỹ năng mới."
+  },
+  {
+    "id": "934",
+    "category_id": "20",
+    "title": "She is preparing for university.",
+    "description": "Cô ấy đang chuẩn bị vào đại học."
+  },
+  {
+    "id": "935",
+    "category_id": "20",
+    "title": "She is preparing for university.",
+    "description": "Cô ấy đang chuẩn bị vào đại học."
+  },
+  {
+    "id": "936",
+    "category_id": "20",
+    "title": "They want to live in another country.",
+    "description": "Họ muốn sống ở một đất nước khác."
+  },
+  {
+    "id": "937",
+    "category_id": "20",
+    "title": "I plan to write a book.",
+    "description": "Tôi dự định viết một cuốn sách."
+  },
+  {
+    "id": "938",
+    "category_id": "20",
+    "title": "She is preparing for university.",
+    "description": "Cô ấy đang chuẩn bị vào đại học."
+  },
+  {
+    "id": "939",
+    "category_id": "20",
+    "title": "They dream of buying a house.",
+    "description": "Họ mơ ước mua một ngôi nhà."
+  },
+  {
+    "id": "940",
+    "category_id": "20",
+    "title": "I want to become a doctor.",
+    "description": "Tôi muốn trở thành bác sĩ."
+  },
+  {
+    "id": "941",
+    "category_id": "20",
+    "title": "He plans to study abroad.",
+    "description": "Anh ấy dự định đi du học."
+  },
+  {
+    "id": "942",
+    "category_id": "20",
+    "title": "I plan to write a book.",
+    "description": "Tôi dự định viết một cuốn sách."
+  },
+  {
+    "id": "943",
+    "category_id": "20",
+    "title": "They dream of buying a house.",
+    "description": "Họ mơ ước mua một ngôi nhà."
+  },
+  {
+    "id": "944",
+    "category_id": "20",
+    "title": "She is preparing for university.",
+    "description": "Cô ấy đang chuẩn bị vào đại học."
+  },
+  {
+    "id": "945",
+    "category_id": "20",
+    "title": "She hopes to travel the world.",
+    "description": "Cô ấy hy vọng sẽ đi du lịch vòng quanh thế giới."
+  },
+  {
+    "id": "946",
+    "category_id": "20",
+    "title": "She is preparing for university.",
+    "description": "Cô ấy đang chuẩn bị vào đại học."
+  },
+  {
+    "id": "947",
+    "category_id": "20",
+    "title": "They want to live in another country.",
+    "description": "Họ muốn sống ở một đất nước khác."
+  },
+  {
+    "id": "948",
+    "category_id": "20",
+    "title": "He is thinking about his future.",
+    "description": "Anh ấy đang suy nghĩ về tương lai."
+  },
+  {
+    "id": "949",
+    "category_id": "20",
+    "title": "She dreams of becoming a singer.",
+    "description": "Cô ấy mơ ước trở thành ca sĩ."
+  },
+  {
+    "id": "950",
+    "category_id": "20",
+    "title": "She hopes to travel the world.",
+    "description": "Cô ấy hy vọng sẽ đi du lịch vòng quanh thế giới."
+  }
+]
