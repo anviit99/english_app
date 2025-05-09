@@ -1,11 +1,10 @@
 <?php
 
 use App\Http\Controllers\Api\AuthController;
-use App\Http\Controllers\Api\BannerController;
+use App\Http\Controllers\Api\LessonController;
 use App\Http\Controllers\Api\CategoryController;
-use App\Http\Controllers\Api\DashboardController;
-use App\Http\Controllers\Api\PaymentController;
-use App\Http\Controllers\Api\ProductController;
+use App\Http\Controllers\Api\CategoryUnlockController;
+use App\Http\Controllers\Api\UserScoreController;
 use App\Http\Controllers\Api\UserController;
 use Illuminate\Support\Facades\Route;
 
@@ -47,16 +46,13 @@ Route::group(['middleware' => 'jwt.auth', 'prefix' => 'v1'], function () {
 });
 
 Route::group(['middleware' => 'jwt.auth', 'prefix' => 'v1'], function () {
-    Route::controller(BannerController::class)->group(function () {
-        Route::prefix('banner')->group(function () {
-            Route::get('index', 'index');
-            Route::group(['middleware' => 'admin'], function () {
-                Route::post('create', 'create');
-                Route::post('update/{id}', 'update');
-                Route::get('delete/{id}', 'delete');
-                Route::get('edit/{id}', 'edit');
-            });
+    Route::controller(LessonController::class)->group(function () {
+        Route::prefix('lesson')->group(function () {
+            Route::get('/list', [LessonController::class, 'listLesson']);
+            Route::get('/{id}', [LessonController::class, 'detailLesson']);
+            Route::get('/choice/{id}', [LessonController::class,  'getLesson']);
         });
+
     });
 });
 
@@ -64,6 +60,7 @@ Route::group(['middleware' => 'jwt.auth', 'prefix' => 'v1'], function () {
     Route::controller(CategoryController::class)->group(function () {
         Route::prefix('categories')->group(function () {
             Route::get('get-all', 'getAll');
+            Route::get('/{id}', 'getDetail');
             Route::group(['middleware' => 'admin'], function () {
                 Route::get('index', 'index');
                 Route::post('create', 'create');
@@ -76,52 +73,47 @@ Route::group(['middleware' => 'jwt.auth', 'prefix' => 'v1'], function () {
 });
 
 Route::group(['middleware' => 'jwt.auth', 'prefix' => 'v1'], function () {
-    Route::controller(ProductController::class)->group(function () {
-        Route::prefix('product')->group(function () {
-            Route::get('product-by-category/{id}', 'productByCategory');
-            Route::get('edit/{id}', 'edit');
-            Route::get('list-favorite', 'listFavorite');
-
-            Route::group(['middleware' => 'admin'], function () {
-                Route::get('index', 'index');
-                Route::post('create', 'create');
-                Route::post('update/{id}', 'update');
-                Route::get('delete/{id}', 'delete');
-                Route::post('cart', 'cart');
-            });
+    Route::controller(UserScoreController::class)->group(function () {
+        Route::prefix('user-score')->group(function () {
+            Route::post('/add',  'store');
         });
     });
 });
 
 Route::group(['middleware' => 'jwt.auth', 'prefix' => 'v1'], function () {
-    Route::controller(PaymentController::class)->group(function () {
-        Route::prefix('payment')->group(function () {
-            Route::post('create-payment', 'createPayment');
-        });
-    });
-});
-
-Route::group(['prefix' => 'v1'], function () {
-    Route::controller(PaymentController::class)->group(function () {
-        Route::prefix('payment')->group(function () {
-            Route::get('callback', 'callBack');
+    Route::controller(CategoryUnlockController::class)->group(function () {
+        Route::prefix('categories')->group(function () {
+            Route::post('unlock', 'unlockCategory');
+            Route::get('unlocked', 'getUnlockedCategories');
+            Route::get('listCategoriesUnlock', 'listCategoriesWithUnlockStatus');
         });
     });
 });
 
 Route::group(['middleware' => 'jwt.auth', 'prefix' => 'v1'], function () {
-    Route::controller(DashboardController::class)->group(function () {
-        Route::prefix('dashboard')->group(function () {
-                Route::get('top-product', 'topProductByMonth');
+    Route::controller(\App\Http\Controllers\Api\IncorrectWordController::class)->group(function () {
+        Route::post('/incorrect-words',  'store');
+        Route::get('/incorrect-words',  'getList');
+        Route::post('/incorrect-words/correct',  'correctWord');
+
+    });
+});
+
+
+Route::group(['middleware' => 'jwt.auth', 'prefix' => 'v1'], function () {
+    Route::controller(UserScoreController::class)->group(function () {
+        Route::prefix('user-score')->group(function () {
+            Route::post('/add',  'store');
+            Route::post('/completedTopic',  'completedTopic');
         });
     });
 });
 
+
 Route::group(['middleware' => 'jwt.auth', 'prefix' => 'v1'], function () {
-    Route::controller(\App\Http\Controllers\Api\MessageController::class)->group(function () {
-        Route::prefix('chat')->group(function () {
-            Route::get('message/{id}', 'getMessage');
-            Route::post('message', 'createMessage');
+    Route::controller(\App\Http\Controllers\Api\TopicController::class)->group(function () {
+        Route::prefix('topic')->group(function () {
+            Route::get('/{id}',  'getDetail');
         });
     });
 });

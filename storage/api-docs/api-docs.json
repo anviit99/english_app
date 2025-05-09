@@ -194,6 +194,53 @@
             }
         },
         "/api/v1/categories/{id}": {
+            "get": {
+                "tags": [
+                    "Category"
+                ],
+                "summary": "Lấy chi tiết danh mục",
+                "operationId": "b75c7d133a8bc87cc78ce8125324d822",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "description": "ID của danh mục",
+                        "required": true,
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Lấy thông tin danh mục thành công",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "id": {
+                                            "type": "integer",
+                                            "example": 1
+                                        },
+                                        "category_name": {
+                                            "type": "string",
+                                            "example": "Sách tiếng Anh"
+                                        },
+                                        "position": {
+                                            "type": "integer",
+                                            "example": 3
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Không tìm thấy danh mục"
+                    }
+                }
+            },
             "put": {
                 "tags": [
                     "Category"
@@ -237,16 +284,732 @@
                 }
             }
         },
-        "/api/v1/auth/profile": {
-            "get": {
+        "/api/v1/categories/unlock": {
+            "post": {
                 "tags": [
-                    "UserProfile"
+                    "Category"
                 ],
-                "summary": "Lấy thông tin người dùng",
-                "operationId": "796834ad6f77e404063cd009279feb5d",
+                "summary": "Mở khóa hạng mục nếu đủ điều kiện",
+                "operationId": "554c1d5f1476ecf21cfe8b044faecca5",
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "properties": {
+                                    "category_id": {
+                                        "type": "integer",
+                                        "example": 2
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
                 "responses": {
                     "200": {
-                        "description": "Thông tin người dùng"
+                        "description": "Mở khóa thành công hoặc đã mở",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "Đã mở khóa thành công!"
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Chưa đủ điều kiện để mở khóa"
+                    }
+                },
+                "security": [
+                    {
+                        "sanctum": []
+                    }
+                ]
+            }
+        },
+        "/api/v1/categories/unlocked": {
+            "get": {
+                "tags": [
+                    "Category"
+                ],
+                "summary": "Lấy danh sách ID các category đã mở khóa của user",
+                "operationId": "71d1308dbf2b48173a6401d85b071324",
+                "responses": {
+                    "200": {
+                        "description": "Danh sách các category đã mở khóa",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "Danh sách category đã mở khóa"
+                                        },
+                                        "data": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "integer",
+                                                "example": 2
+                                            }
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    }
+                },
+                "security": [
+                    {
+                        "sanctum": []
+                    }
+                ]
+            }
+        },
+        "/api/v1/categories/unlock-status": {
+            "get": {
+                "tags": [
+                    "Category"
+                ],
+                "summary": "Danh sách tất cả category và trạng thái mở khóa của user",
+                "operationId": "da8514fb37976519f178fa98e47a6e59",
+                "responses": {
+                    "200": {
+                        "description": "Danh sách category và trạng thái mở khóa",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "Thành công"
+                                        },
+                                        "data": {
+                                            "type": "array",
+                                            "items": {
+                                                "properties": {
+                                                    "id": {
+                                                        "type": "integer",
+                                                        "example": 1
+                                                    },
+                                                    "name": {
+                                                        "type": "string",
+                                                        "example": "Từ vựng cơ bản"
+                                                    },
+                                                    "is_unlocked": {
+                                                        "type": "boolean",
+                                                        "example": true
+                                                    }
+                                                },
+                                                "type": "object"
+                                            }
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    }
+                },
+                "security": [
+                    {
+                        "sanctum": []
+                    }
+                ]
+            }
+        },
+        "/api/v1/incorrect-words": {
+            "get": {
+                "tags": [
+                    "IncorrectWords"
+                ],
+                "summary": "Lấy danh sách các từ đọc sai",
+                "operationId": "82a33f021123e6ca10c475c29e0ffbea",
+                "responses": {
+                    "200": {
+                        "description": "Danh sách từ đọc sai",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "data": {
+                                            "type": "array",
+                                            "items": {
+                                                "$ref": "#/components/schemas/IncorrectWord"
+                                            }
+                                        },
+                                        "current_page": {
+                                            "description": "Trang hiện tại",
+                                            "type": "integer"
+                                        },
+                                        "total_pages": {
+                                            "description": "Tổng số trang",
+                                            "type": "integer"
+                                        },
+                                        "per_page": {
+                                            "description": "Số lượng items mỗi trang",
+                                            "type": "integer"
+                                        },
+                                        "total_items": {
+                                            "description": "Tổng số lượng items",
+                                            "type": "integer"
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    },
+                    "500": {
+                        "description": "Lỗi hệ thống"
+                    }
+                }
+            },
+            "post": {
+                "tags": [
+                    "IncorrectWords"
+                ],
+                "summary": "Lưu từ đọc sai",
+                "operationId": "9314e029bfa09d9a02aaaef3910b48b3",
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "properties": {
+                                    "word": {
+                                        "description": "Từ đọc sai",
+                                        "type": "string"
+                                    },
+                                    "correct_word": {
+                                        "description": "Từ đúng",
+                                        "type": "string"
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "201": {
+                        "description": "Từ đọc sai đã được lưu",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "message": {
+                                            "type": "string"
+                                        },
+                                        "data": {
+                                            "type": "object"
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Lỗi xác thực dữ liệu"
+                    }
+                }
+            }
+        },
+        "/api/v1/incorrect-words/correct": {
+            "post": {
+                "tags": [
+                    "IncorrectWords"
+                ],
+                "summary": "Kiểm tra và xóa từ đọc sai khi người dùng đọc đúng",
+                "operationId": "cca71cbd449e482d4ddba4c04070fda2",
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "properties": {
+                                    "word": {
+                                        "description": "Từ đọc sai",
+                                        "type": "string"
+                                    },
+                                    "correct_word": {
+                                        "description": "Từ đúng",
+                                        "type": "string"
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Từ đọc sai đã được sửa và xóa thành công"
+                    },
+                    "404": {
+                        "description": "Không tìm thấy từ đọc sai khớp"
+                    },
+                    "500": {
+                        "description": "Lỗi hệ thống"
+                    }
+                }
+            }
+        },
+        "/api/v1/lesson/list": {
+            "get": {
+                "tags": [
+                    "Lesson"
+                ],
+                "summary": "Lấy danh sách bài học",
+                "description": "Trả về danh sách các bài học, có thể lọc theo category_id",
+                "operationId": "2eb38a6bded42f80356c7aa746fd7d07",
+                "parameters": [
+                    {
+                        "name": "category_id",
+                        "in": "query",
+                        "description": "ID danh mục cần lọc",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "example": 1
+                        }
+                    },
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "description": "Trang hiện tại",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "example": 1
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Danh sách bài học",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "data": {
+                                            "type": "array",
+                                            "items": {
+                                                "properties": {
+                                                    "id": {
+                                                        "type": "integer",
+                                                        "example": 1
+                                                    },
+                                                    "title": {
+                                                        "type": "string",
+                                                        "example": "Bài học đầu tiên"
+                                                    },
+                                                    "content": {
+                                                        "type": "string",
+                                                        "example": "Nội dung bài học..."
+                                                    },
+                                                    "category_id": {
+                                                        "type": "integer",
+                                                        "example": 2
+                                                    },
+                                                    "created_at": {
+                                                        "type": "string",
+                                                        "format": "date-time"
+                                                    }
+                                                },
+                                                "type": "object"
+                                            }
+                                        },
+                                        "current_page": {
+                                            "type": "integer",
+                                            "example": 1
+                                        },
+                                        "total_pages": {
+                                            "type": "integer",
+                                            "example": 5
+                                        },
+                                        "per_page": {
+                                            "type": "integer",
+                                            "example": 10
+                                        },
+                                        "total_items": {
+                                            "type": "integer",
+                                            "example": 50
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/v1/lessons/{id}": {
+            "get": {
+                "tags": [
+                    "Lesson"
+                ],
+                "summary": "Lấy chi tiết bài học theo ID",
+                "description": "Trả về chi tiết một bài học cụ thể",
+                "operationId": "f63f80bce34ecb1b23418b41ee20d495",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "description": "ID bài học",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "example": 1
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Thông tin chi tiết bài học",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "id": {
+                                            "type": "integer",
+                                            "example": 1
+                                        },
+                                        "title": {
+                                            "type": "string",
+                                            "example": "Bài học đầu tiên"
+                                        },
+                                        "content": {
+                                            "type": "string",
+                                            "example": "Nội dung chi tiết bài học..."
+                                        },
+                                        "category_id": {
+                                            "type": "integer",
+                                            "example": 2
+                                        },
+                                        "created_at": {
+                                            "type": "string",
+                                            "format": "date-time"
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Không tìm thấy bài học"
+                    }
+                }
+            }
+        },
+        "/api/v1/lesson/choice/{id}": {
+            "get": {
+                "tags": [
+                    "Lesson"
+                ],
+                "summary": "Lấy một bài học",
+                "operationId": "d02b21d9e0f74dc22c97db543f2955a3",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Bài học",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "id": {
+                                            "type": "integer",
+                                            "example": 1
+                                        },
+                                        "title": {
+                                            "type": "string",
+                                            "example": "I work as a software developer."
+                                        },
+                                        "description": {
+                                            "type": "string",
+                                            "example": "Tôi làm việc như một lập trình viên phần mềm."
+                                        },
+                                        "tusapxep": {
+                                            "type": "string",
+                                            "example": "lập, phần, như, tôi, một, làm, viên, phần, developer, work"
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/user/profile": {
+            "get": {
+                "tags": [
+                    "User"
+                ],
+                "summary": "Lấy thông tin tài khoản người dùng + thống kê điểm",
+                "operationId": "695a5ba8ff7a490aad2bed007b5499f9",
+                "responses": {
+                    "200": {
+                        "description": "Thông tin tài khoản và thống kê",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "Thành công!"
+                                        },
+                                        "data": {
+                                            "properties": {
+                                                "id": {
+                                                    "type": "integer",
+                                                    "example": 1
+                                                },
+                                                "name": {
+                                                    "type": "string",
+                                                    "example": "Nguyễn Văn A"
+                                                },
+                                                "email": {
+                                                    "type": "string",
+                                                    "example": "a@gmail.com"
+                                                },
+                                                "total_score": {
+                                                    "type": "number",
+                                                    "example": 34.5
+                                                },
+                                                "total_lessons": {
+                                                    "type": "integer",
+                                                    "example": 12
+                                                },
+                                                "last_lesson": {
+                                                    "properties": {
+                                                        "lesson_id": {
+                                                            "type": "integer",
+                                                            "example": 5
+                                                        },
+                                                        "score": {
+                                                            "type": "number",
+                                                            "example": 9
+                                                        },
+                                                        "percent": {
+                                                            "type": "number",
+                                                            "example": 90
+                                                        },
+                                                        "submitted_at": {
+                                                            "type": "string",
+                                                            "format": "date-time",
+                                                            "example": "2025-04-08T22:10:00"
+                                                        }
+                                                    },
+                                                    "type": "object"
+                                                }
+                                            },
+                                            "type": "object"
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    },
+                    "401": {
+                        "description": "Chưa xác thực người dùng"
+                    }
+                },
+                "security": [
+                    {
+                        "sanctum": []
+                    }
+                ]
+            }
+        },
+        "/api/v1/user-score/add": {
+            "post": {
+                "tags": [
+                    "User Score"
+                ],
+                "summary": "Lưu điểm người dùng sau khi hoàn thành bài học",
+                "operationId": "c24696ec8b06a973f137c98308d67d96",
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "required": [
+                                    "percent"
+                                ],
+                                "properties": {
+                                    "percent": {
+                                        "description": "Phần trăm kết quả đúng (0–100)",
+                                        "type": "number",
+                                        "format": "float",
+                                        "example": 85.5
+                                    },
+                                    "lesson_id": {
+                                        "description": "ID của bài học (nếu có)",
+                                        "type": "integer",
+                                        "example": 5
+                                    },
+                                    "time_spent": {
+                                        "description": "Thời gian học bài (tính bằng giây)",
+                                        "type": "integer",
+                                        "example": 120
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Lưu điểm thành công",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "Score saved successfully"
+                                        },
+                                        "data": {
+                                            "properties": {
+                                                "id": {
+                                                    "type": "integer",
+                                                    "example": 1
+                                                },
+                                                "user_id": {
+                                                    "type": "integer",
+                                                    "example": 12
+                                                },
+                                                "lesson_id": {
+                                                    "type": "integer",
+                                                    "example": 5
+                                                },
+                                                "percent": {
+                                                    "type": "number",
+                                                    "format": "float",
+                                                    "example": 85.5
+                                                },
+                                                "score": {
+                                                    "type": "number",
+                                                    "format": "float",
+                                                    "example": 8.6
+                                                },
+                                                "submitted_at": {
+                                                    "type": "string",
+                                                    "format": "date-time",
+                                                    "example": "2025-04-08T21:58:00Z"
+                                                },
+                                                "created_at": {
+                                                    "type": "string",
+                                                    "format": "date-time"
+                                                },
+                                                "updated_at": {
+                                                    "type": "string",
+                                                    "format": "date-time"
+                                                }
+                                            },
+                                            "type": "object"
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Dữ liệu đầu vào không hợp lệ"
+                    },
+                    "401": {
+                        "description": "Chưa xác thực người dùng"
+                    }
+                },
+                "security": [
+                    {
+                        "sanctum": []
+                    }
+                ]
+            }
+        },
+        "/api/v1/topic/completed": {
+            "post": {
+                "tags": [
+                    "Topic"
+                ],
+                "summary": "Đánh dấu topic là hoàn thành",
+                "operationId": "b66fd6d46f8e101b485c98de6ecef001",
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "required": [
+                                    "topic_id",
+                                    "level"
+                                ],
+                                "properties": {
+                                    "topic_id": {
+                                        "type": "integer",
+                                        "example": 2
+                                    },
+                                    "level": {
+                                        "type": "integer",
+                                        "example": 3
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Đánh dấu hoàn thành thành công",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "success": {
+                                            "type": "boolean",
+                                            "example": true
+                                        },
+                                        "message": {
+                                            "type": "string",
+                                            "example": "Thành công"
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Lỗi đầu vào hoặc logic"
+                    },
+                    "401": {
+                        "description": "Chưa xác thực"
                     }
                 },
                 "security": [
@@ -254,6 +1017,36 @@
                         "bearerAuth": []
                     }
                 ]
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "IncorrectWord": {
+                "properties": {
+                    "id": {
+                        "type": "integer",
+                        "example": 1
+                    },
+                    "word": {
+                        "type": "string",
+                        "example": "example"
+                    },
+                    "user_id": {
+                        "type": "integer",
+                        "example": 5
+                    },
+                    "mistake_count": {
+                        "type": "integer",
+                        "example": 3
+                    },
+                    "last_mistake_at": {
+                        "type": "string",
+                        "format": "date-time",
+                        "example": "2025-05-08T10:00:00Z"
+                    }
+                },
+                "type": "object"
             }
         }
     },
@@ -267,8 +1060,24 @@
             "description": "Category"
         },
         {
-            "name": "UserProfile",
-            "description": "UserProfile"
+            "name": "IncorrectWords",
+            "description": "IncorrectWords"
+        },
+        {
+            "name": "Lesson",
+            "description": "Lesson"
+        },
+        {
+            "name": "User",
+            "description": "User"
+        },
+        {
+            "name": "User Score",
+            "description": "User Score"
+        },
+        {
+            "name": "Topic",
+            "description": "Topic"
         }
     ]
 }

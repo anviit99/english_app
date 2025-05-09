@@ -15,3 +15,4 @@ Laravel: 10.
 // run port local
 - php artisan serve
 
+php artisan l5-swagger:generate
