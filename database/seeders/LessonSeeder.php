@@ -17,6 +17,13 @@ class LessonSeeder extends Seeder
                 'category_id' => (int) $lesson['category_id'],
                 'title' => $lesson['title'],
                 'description' => $lesson['description'],
+                "question_text" => $lesson['question_text'] ?? null,
+                "correct_answer" => $lesson['correct_answer'] ?? null,
+                "options"=>  isset($lesson['options']) ? json_encode($lesson['options']) : null,
+                "explain"=> $lesson['explain'] ?? null,
+                "level"=> $lesson['level'] ?? null,
+                "type"=> $lesson['type'] ?? null,
+                "ipa"=> $lesson['ipa'] ?? null,
                 'created_at' => now(),
                 'updated_at' => now(),
             ]);

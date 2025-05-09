@@ -22,8 +22,19 @@ WORKDIR /var/www/html
 
 COPY . .
 
+# Cài packages không bao gồm dev
 RUN composer install --no-dev --optimize-autoloader
 
+# Xóa cache cũ và tạo key + cache mới
+RUN php artisan config:clear \
+    && php artisan route:clear \
+    && php artisan view:clear \
+    && php artisan key:generate --force \
+    && php artisan config:cache \
+    && php artisan route:cache \
+    && php artisan view:cache
+
+# Cấp quyền cho Laravel ghi file
 RUN chown -R www-data:www-data storage bootstrap/cache
 
 EXPOSE 8000

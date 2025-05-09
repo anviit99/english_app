@@ -86,11 +86,6 @@ class AuthController extends Controller
                     'required',
                     'string',
                     \Illuminate\Validation\Rules\Password::min(8)
-                        ->mixedCase()
-                        ->letters()
-                        ->numbers()
-                        ->symbols()
-                        ->uncompromised(),
                 ],
                 'phone' => 'required|regex:/^0[0-9]{9,10}$/',
             ]);
@@ -103,6 +98,13 @@ class AuthController extends Controller
                 $request->only(['email', 'phone', 'user_name']),
                 ['password' => bcrypt($request->password)]
             ));
+
+            DB::table('category_unlocks')->insert([
+                'user_id' => $user->id,
+                'category_id' => 1,
+                'created_at' => now(),
+                'updated_at' => now(),
+            ]);
 
             DB::commit();
 

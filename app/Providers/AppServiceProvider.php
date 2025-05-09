@@ -13,12 +13,8 @@ class AppServiceProvider extends ServiceProvider
     {
         $models = [
             'User',
-            'Banner',
-            'Product',
+            'Lesson',
             'Category',
-            'Order',
-            'OrderItem',
-            'Cart'
         ];
 
         foreach ($models as $model) {

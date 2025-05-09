@@ -12,4 +12,9 @@ class Category extends Model
     protected $table = 'categories';
     protected $guarded = [];
     protected $date = ['deleted_at'];
+
+    public function topics()
+    {
+        return $this->hasMany(Topic::class);
+    }
 }
